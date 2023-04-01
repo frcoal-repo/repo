@@ -24,9 +24,11 @@ apt-ftparchive \
 
 echo "[Repository] Pushing Files..."
 rm CNAME
+echo frcoal.cfd > CNAME
 git add .
 git commit -m "frcoal"
-git push
+git push --force
+rm CNAME
 echo frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion > CNAME
 
 echo "[Repository] Finished"
