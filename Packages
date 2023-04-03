@@ -96,6 +96,23 @@ Tag: role::hacker
 Name: wfr
 Author: frcoal
 
+Package: com.0xkuj.3dappversionspoofer
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./pool/com.0xkuj.3dappversionspoofer_1.1.4_iphoneos-arm64.deb
+Size: 54426
+MD5sum: d0dc5fd513b32c321411bc2e690fc084
+SHA1: 2691374ca96dd38eed088d2f0acdd0c4c055cc89
+SHA256: 880c5c0a77bf776874791b54d79059a6e3e4241cb9f869c3511d2292c33e7b51
+SHA512: 744eabf681e9fcc5b6662a7fe687ecaa11ccc689fe175ee9a4eacd375b2de645b28f59f010295eaecd5bc31b665502014ad35a48241495a02759c6399f2527f8
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Name: 3DAppVersionSpoofer
+Author: 0xkuj
+
 Package: com.beckettobrien.btmanager+
 Architecture: iphoneos-arm64
 Version: 1.2.0-rootless-3+debug
