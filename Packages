@@ -870,6 +870,24 @@ Description: Very small music widget\n\nMIT License Copyright (c) 2021 P2KDev Pe
 Name: Printemps
 Author: tako3s <fubdonstrk@gmail.com>
 
+Package: com.thomz.cenamo
+Architecture: iphoneos-arm64
+Version: 1.1-2+debug
+Section: Tweaks
+Maintainer: Thomz
+Installed-Size: 1660
+Depends: mobilesubstrate, preferenceloader, me.conorthedev.libappearancecell
+Filename: ./pool/com.thomz.cenamo_1.1-2+debug_iphoneos-arm64.deb
+Size: 647494
+MD5sum: 015b95e593f086faefd0e06c3225c591
+SHA1: 5d0eb266fbf77febfa217d07b9e68857a13e142d
+SHA256: 626bfce3b6846a949efc4332802231951cf8a69d206d2f0a762a245d80d5ec6b
+SHA512: 7ef88158646f10a2470d671f2e0511d86d28c9d4f0c37bd55b66fc3b98a6dfb30a534d218855bd83fd45c9dc471288c7a7d0f5cb417530ec1fb078cecc051854
+Description: Know your battery by looking at your dock
+Name: Cenamo
+Author: Thomz
+Icon: file:///Library/PreferenceBundles/cenamoprefs.bundle/icon@3x.png
+
 Package: dev.traurige.eneko
 Architecture: iphoneos-arm64
 Version: 1.2-rootless-2+debug
@@ -907,6 +925,23 @@ SHA512: 74d9585400003469273d8b06928df09cd1c6d32b4dacd0387cd4c291124f419806d03e23
 Description: YouTube Customizer. MIT License Copyright (c) 2022 Lillie Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Name: YouTube Reborn
 Author: Lillie
+
+Package: me.conorthedev.libappearancecell
+Architecture: iphoneos-arm64
+Version: 1.0.2-1+debug
+Section: System
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Installed-Size: 596
+Filename: ./pool/me.conorthedev.libappearancecell_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 152858
+MD5sum: 632af2e7448ce97b6b6a822a49b627e7
+SHA1: 55fd5a1b3ce1fe9b2802089d99885f2ee68b6daf
+SHA256: 59bb9d1468df79cb9eeaeaa513853f8456d2ec2f435c1cbec9986fd70568ff4c
+SHA512: d6d3ed1be8fa4faf12b6eb125750e04efe4ed68fde920e8b027ec3d195c8f1694f49b5e6d32cf2f5cabbb8312ef3a8b785c1a3afe7540a769ef8830f25254e81
+Description: A library for that allows developers to use an iOS 13-style appearance selector in their Preferences.
+Tag: role::developer
+Name: libappearancecell
+Author: ConorTheDev <conorthedev@gmail.com>
 
 Package: me.lau.atria
 Architecture: iphoneos-arm64
