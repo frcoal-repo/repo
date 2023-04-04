@@ -22,13 +22,17 @@ apt-ftparchive \
 		-o APT::FTPArchive::Release::Description="frcoal" \
 		release . > Release
 
-echo "[Repository] Pushing Files..."
-rm CNAME
-echo frcoal.cfd > CNAME
-git add .
-git commit -m "frcoal"
-git push --force
-rm CNAME
-echo frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion > CNAME
+if [ $# -ge 1 ]; then
+	echo "[Repository] Pushing Files..."
+	rm CNAME
+	echo frcoal.cfd > CNAME
+	git add .
+	git commit -m "frcoal"
+	git push --force
+	rm CNAME
+	echo frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion > CNAME
+else
+	echo "[Repository] NOT pushing files!! LOL"
+fi
 
 echo "[Repository] Finished"
