@@ -799,25 +799,6 @@ Description: Fluid simulation on your homescreen. The MIT License (MIT) Copyrigh
 Name: Waves
 Author: Muirey03
 
-Package: com.ryannair05.cylinderremade
-Architecture: iphoneos-arm64
-Version: 0.0.3-beta-rootless
-Section: Tweaks
-Maintainer: Ryan Nair
-Installed-Size: 604
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Conflicts: com.ryannair05.cylinder
-Filename: ./pool/com.ryannair05.cylinderremade_0.0.3-beta-rootless_iphoneos-arm64.deb
-Size: 105656
-MD5sum: a3e04521f84e38e67c3960727f3c6437
-SHA1: 3c8fa0d15a4c500b8a2bad07ea77f30e8ffeee52
-SHA256: 5d490c84309972f745dfae2eebe5d008fa889ac5a15aad6d3f980590411df717
-SHA512: d5e2fdc3b39f29238cbbe228ceaddd2aff04a36ef146b19292cd8b61c080f4cc4035de25b6e04bcd053461d671dfe673778d6abcbd7af964f8c6c1d7f08a9948
-Description: Make your icons dance
-Name: Cylinder Remade
-Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
-Author: Ryan Nair
-
 Package: com.semvis.sonitus
 Architecture: iphoneos-arm64
 Version: 1.0.4-rootless-2+debug
