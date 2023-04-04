@@ -22,7 +22,7 @@ apt-ftparchive \
 		-o APT::FTPArchive::Release::Description="frcoal" \
 		release . > Release
 
-if [ $# -ge 1 ]; then
+if [ $# -lt 1 ]; then
 	echo "[Repository] Pushing Files..."
 	rm CNAME
 	echo frcoal.cfd > CNAME
