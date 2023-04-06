@@ -765,19 +765,19 @@ Description: A Control Center Module to switch NoiseCancellation/Transparency. (
 Name: CCNoiseControl
 Author: Brend0n <brendonjkding@126.com>
 
-Package: com.mtac.uptime
+Package: com.mtac.uptimealt
 Architecture: iphoneos-arm64
 Version: 1.0.0-rootless
 Section: Tweaks
 Maintainer: MTAC
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-Filename: ./pool/com.mtac.uptime_1.0.0-rootless_iphoneos-arm64.deb
-Size: 24262
-MD5sum: c728d1b8be81a030a8cef7cb38a8b92b
-SHA1: 59bc4fc40c8321a1d9fbf2701272e13c7c383023
-SHA256: 4ca31d29abf9604e0ee4b0e479b1172589f62ba5a0df20e97ad4ac69b1ff1277
-SHA512: fe49c06b4cef50879c834ea2848cdf6cbe3edc32d61aa758ec9cf8e483a56e8c432c185e8c94375d5a5f2a9bce7a5c02e4379b1e5acf73536c6aa53648bfe037
+Filename: ./pool/com.mtac.uptimealt_1.0.0-rootless_iphoneos-arm64.deb
+Size: 24252
+MD5sum: 2ebfa49126d18ce69cc94ca15f6ee807
+SHA1: 58bd7ba966e8e2c101e72c540a7b067a679e9d11
+SHA256: 2a9438f8ddc6de357126033813cca7b97953176f66863944dce3a0add457cb68
+SHA512: c16bdb5eb6c21926bb5a3f14f748f20ac30f7ddf87d1d9d8989a8ece3441fde22b757ead0b9ad488081908f4c4645991dc923030af50ceeb9e6f6ef72711ed85
 Description: Control Center module to view time since boot. MIT License Copyright (c) 2022 D.F. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Name: Uptime
 Author: MTAC
