@@ -923,25 +923,6 @@ Description: Video wallpapers for iOS. The original tweak has been modified to s
 Name: Eneko
 Author: Traurige <hello@traurige.dev>
 
-Package: dev.traurige.eneko
-Architecture: iphoneos-arm64
-Version: 99999.1.2-rootless-1+debug
-Section: Tweaks
-Maintainer: Traurige <hello@traurige.dev>
-Installed-Size: 464
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: love.litten.eneko
-Filename: ./pool/dev.traurige.eneko_99999.1.2-rootless-1+debug_iphoneos-arm64.deb
-Size: 36208
-MD5sum: 3f53937027561a77c88887807add860f
-SHA1: 10ef6189c864ccca58446e6ce6d9218e9ced6ff1
-SHA256: 28ec9b43f13e7b4dec1898d21bee82d42c530d2a13b0a00666956dff9b58979d
-SHA512: 170eead348362766028d71597b8bef2fa755336d17a955453eb6c93b9b16f63bf316b89790ce3d0e311b8f0eac8c90c6c678c745f3daa9cbe74b05312af434b4
-Description: DEBUG TWEAK VERSION TO DISPLACE OTHER UPLOADS; Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code
-Name: Eneko
-and full license text available at http: //frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
-Author: Traurige <hello@traurige.dev>
-
 Package: h.ryan.youtubereborn
 Architecture: iphoneos-arm64
 Version: 4.0.9-rootless-1+debug
