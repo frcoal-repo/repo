@@ -871,6 +871,24 @@ Author: Sem Visscher
 
 Package: com.tako3s.printemps
 Architecture: iphoneos-arm64
+Version: 1.1.0+1-rootless
+Section: Tweaks
+Maintainer: tako3s <fubdonstrk@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./pool/com.tako3s.printemps_1.1.0+1-rootless_iphoneos-arm64.deb
+Size: 21722
+MD5sum: 18d7145fa67f798ef4410db0dd4b1be7
+SHA1: eb7f9d05e4181ead03b21bacc21cbd66687cd893
+SHA256: 7379e86768c549b3315ad9d2a9aa345b5c20755d50f179759b89f5f859917295
+SHA512: c47b405bcc550041a4d16cb3e7f06ef45b73f28997d50c0e783a14ae0f862243dd5860d26b3de4815e1bbe6172f30f57f31153278572c848b1d5d7a0dab442d6
+Description: Very small music widget\n\nMIT License Copyright (c) 2021 P2KDev Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. This is the original copy right of the icon: The MIT License (MIT) Copyright (c) 2013-2017 Cole Bemis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: Printemps
+Author: tako3s <fubdonstrk@gmail.com>
+
+Package: com.tako3s.printemps
+Architecture: iphoneos-arm64
 Version: 1.1.0-rootless
 Section: Tweaks
 Maintainer: tako3s <fubdonstrk@gmail.com>
