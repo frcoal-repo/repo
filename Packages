@@ -887,6 +887,24 @@ Description: Very small music widget\n\nMIT License Copyright (c) 2021 P2KDev Pe
 Name: Printemps
 Author: tako3s <fubdonstrk@gmail.com>
 
+Package: dev.traurige.eneko
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-24+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./pool/dev.traurige.eneko_1.2-rootless-24+debug_iphoneos-arm64.deb
+Size: 36046
+MD5sum: d8229472652bae1a0a4776ff3e5e37cc
+SHA1: beae9b33b107bca4b68cf03d59530ba0a8a775fb
+SHA256: f3bfc17fe43f5293ff09de0444e67622f4b1b4f75fb9b8347b55604d1cb5552a
+SHA512: c158fe2c021dbf5fbf8a4f82428ca139fbee6a26e5cef13860e537479d81b2345f8d67c16d747ca222695bbbea461643674a57e2b03ef646a7d42a05abb1e7da
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
 Package: h.ryan.youtubereborn
 Architecture: iphoneos-arm64
 Version: 4.0.9-rootless-1+debug
