@@ -995,6 +995,24 @@ Description: IF YOU HAVE VOICECHANGER XS TWEAK DISABLE ITS INJECTION INTO SPRING
 Name: Eneko
 Author: Traurige <hello@traurige.dev>
 
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-6+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-6+debug_iphoneos-arm64.deb
+Size: 36198
+MD5sum: e3fe7dd7f1e26dca793f8e49c7b8a1b0
+SHA1: d0c4ff43213dde10b55b1ddbe2ad6b21150ee331
+SHA256: d45ccb5393daabb4f42a915dedebbc2110e6bb3baf9c4e184866922c93fa0263
+SHA512: b3fc4fc4bed2a0825c3cd9f0bb1e7e450915601678a080f794702b1b62b039dc43401f36783219c8703d0eb70435dfa7c9c317dcc7ba7e33ca07a9032c1b7ca2
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
 Package: h.ryan.youtubereborn
 Architecture: iphoneos-arm64
 Version: 4.0.9-rootless-1+debug
