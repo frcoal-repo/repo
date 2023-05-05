@@ -1087,27 +1087,3 @@ Description: A proper homescreen layout editor for iOS 13-15
 Author: ren7995
 Name: Atria
 
-Package: ws.hbang.alderis
-Architecture: iphoneos-arm64
-Version: 1.2-1
-Section: Development
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 2528
-Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
-Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
-Filename: ./pool/ws.hbang.alderis_1.2-1_iphoneos-arm64.deb
-Size: 218106
-MD5sum: 171daea4217f0821b80b4ab3894b9ffa
-SHA1: 080d2d6729d2ab9ba12c568d0a740ce164a813eb
-SHA256: 64083d424d4d8a8cbf5476d144a54f6472d2f973d05aeb762f55ac1b36a80ec5
-SHA512: 8ea601fe300ba27e47990fc39b8291893504e05b19cec3ba68680c1de2ee88351661ef93a47fefd50f7016711edcb236f474aec2a0c0b529db2f1498c128ed6b
-Description: Color picker support library for tweaks
-Tag: role::developer, compatible_min::ios12.0
-Name: Alderis Color Picker
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/alderis
-Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
-Support: https://hashbang.productions/support/
-dev: hbang
-
