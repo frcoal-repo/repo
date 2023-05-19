@@ -1051,39 +1051,3 @@ Description: YouTube Customizer. MIT License Copyright (c) 2022 Lillie Permissio
 Name: YouTube Reborn
 Author: Lillie
 
-Package: me.lau.atria
-Architecture: iphoneos-arm64
-Version: 1.3.3-4
-Section: Tweaks
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 878
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
-Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./pool/me.lau.atria_1.3.3-4_iphoneos-arm64.deb
-Size: 165872
-MD5sum: 1410eb034f6e18f717135d8431e7ba71
-SHA1: 6441acc2adbdb6b264eb564b492417cb505d62fb
-SHA256: 6512dbf444b961ede2cf17aeb7a992b5d24992c3867b8cb8f753ba6c7e773636
-SHA512: 6190ff321f402a0a07216ff9802df559a3aaebed276a47336761789156ea15eaddfb99686a4a3b5e1400a52352e6c51d27102053d01e9eab0d056811b7076283
-Description: A proper homescreen layout editor for iOS 13-15
-Author: ren7995
-Name: Atria
-
-Package: me.lau.atria
-Architecture: iphoneos-arm64
-Version: 1.3.3-5
-Section: Tweaks
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Installed-Size: 878
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
-Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./pool/me.lau.atria_1.3.3-5_iphoneos-arm64.deb
-Size: 165856
-MD5sum: 0ae6837e4d3f38cf0b835cff8c5fd8ca
-SHA1: 53e16d5e535eaa303ff90ef0a3e0e7d517aa0f9c
-SHA256: b56d2d9fe8e436a3e65456986ace45672dec569a9645aaa62cb935d3c0cda7a7
-SHA512: c4a5f84fe3abda048c66c4eec9abbd4fc774726a5d78279dd7db9f1ec7f4031d009097935dfc018a19f5faef371b73e1ee13d8b44c42ab9eff3bfc18585f4481
-Description: A proper homescreen layout editor for iOS 13-15
-Author: ren7995
-Name: Atria
-
