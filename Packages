@@ -96,6 +96,23 @@ Tag: role::hacker
 Name: wfr
 Author: frcoal
 
+Package: cfd.frcoal.atrianotice
+Architecture: iphoneos-arm64
+Version: 0.0.69
+Section: System
+Maintainer: frcoal
+Installed-Size: 0
+Filename: ./pool/cfd.frcoal.atrianotice_0.0.69_iphoneos-arm64.deb
+Size: 612
+MD5sum: 38b6ecb25876c6d5b61c1dd8e3b913a0
+SHA1: 747b2e48c54c9d9d30c5bba5e78112a034983c7e
+SHA256: 5f49ccc2654ea8e1ec5a2c6a8ce19c82ebc5d02e625220ea2cb91d1d6bcf1d1f
+SHA512: fdd7a49a43d58e662903d6b84ea05c1c34ef8c5c121ab817e56df67427c6c86eaefe8bb39b5bf05821a79c68a2804b4cd7f494e52e166c1f33663a97bc6df390
+Description: Atria is moved to dhinakg.github.io/repo
+Tag: role::hacker
+Name: Atria is moved to dhinakg.github.io/repo
+Author: frcoal
+
 Package: com.beckettobrien.btmanager+
 Architecture: iphoneos-arm64
 Version: 1.2.0-rootless-3+debug
