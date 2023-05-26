@@ -833,59 +833,6 @@ Description: Fluid simulation on your homescreen. The MIT License (MIT) Copyrigh
 Name: Waves
 Author: Muirey03
 
-Package: com.semvis.sonitus
-Architecture: iphoneos-arm64
-Version: 1.0.4-rootless-2+debug
-Section: Tweaks
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>=13.0)
-Conflicts: com.semvis123.sonyfy, com.semvis123.headphonify
-Filename: ./pool/com.semvis.sonitus_1.0.4-rootless-2+debug_iphoneos-arm64.deb
-Size: 73242
-MD5sum: ff9c3c06b29c849ab918b7d1c2bf7eda
-SHA1: 6cc7b34cbfb2fbb599ebec35132ed9f758e3c79c
-SHA256: 0bff45f0e3efa4b0a06e4123e2eda78103fcb66027c94407162a05ae35f73d54
-SHA512: 600452903749baf4539d921499a5bd7c6d4e2aa758494d89009f18f4cec88bdaf53bcef152cd8318424fd28b184ace2ebc69ea44220d511ba97eb8ed7de72061
-Description: Sonitus, bring the noise cancellation control of your headphones to the built-in iOS menu.
-Name: Sonitus
-MIT License
-Copyright (c) 2021 Semvis
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-Maintainer: Sem Visscher
-Author: Sem Visscher
-
-Package: com.semvis.sonitus
-Architecture: iphoneos-arm64
-Version: 1.0.4-rootless-3+debug
-Section: Tweaks
-Maintainer: Sem Visscher
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>=13.0)
-Conflicts: com.semvis123.sonyfy, com.semvis123.headphonify
-Filename: ./pool/com.semvis.sonitus_1.0.4-rootless-3+debug_iphoneos-arm64.deb
-Size: 73232
-MD5sum: bf97eec5213157cf6ab858d7099bb479
-SHA1: 6202bc39411ea7907d6374d2fa53508aba3ec620
-SHA256: 6bdfa0679d77f7a2d36cff270dc8ac4e2c617dd5aab61eeb683e7e6dbfffcaf3
-SHA512: c7f091c5b95f48fc358fced658e834aed30230cd1ee384585d30d5e0b8595899b3becaa32f81256fa50e39f99c24a7243b31929218800c656af05b8c6ef60dcb
-Description: Sonitus, bring the noise cancellation control of your headphones to the built-in iOS menu. MIT License Copyright (c) 2021 Semvis  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Name: Sonitus
-Author: Sem Visscher
-
 Package: com.tako3s.printemps
 Architecture: iphoneos-arm64
 Version: 1.1.0+1-rootless
