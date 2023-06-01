@@ -215,6 +215,40 @@ Description: Under construction
 Name: frcoal Theme
 Author: frcoal
 
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 4
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 2336
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_4_iphoneos-arm.deb
+Size: 2278354
+MD5sum: d899624791874245d9e9d614423f2db3
+SHA1: 4da1b282c01b441225c3a0c5862bf87294b8482c
+SHA256: bd569d62845f9ed800329de4ed65e7a7875bf902c175fcc74afa8c0f78bd43f9
+SHA512: fd34a7022e67f00a9b3220817fdd2f720594c0c2d3a15dfaf4343b87ab6086a4a0777b78f81bce4cab0e16ed47ddfb996de26f9976cb129cac1bc3039c967f71
+Description: Under construction
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 4
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 2336
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_4_iphoneos-arm64.deb
+Size: 2278362
+MD5sum: 58ad660ecc4662ff16238d804dee56a9
+SHA1: 47860e352e0ce6ac1ea54bb289c9b8cf22a69787
+SHA256: 755f829138a3c0145b4bf0fccacc2fca07d952c38c323bc3002db7cddd0508b5
+SHA512: 8d824bdaf8f62b405aaf4e1664e50cf69b79fac21dede467a931efe88e7e488c15c264ea11ac2424c2c95b5f57f34ceb6da07675bd4b7d3a14c44ec3b97865df
+Description: Under construction
+Name: frcoal Theme
+Author: frcoal
+
 Package: com.beckettobrien.btmanager+
 Architecture: iphoneos-arm64
 Version: 1.2.0-rootless-3+debug
