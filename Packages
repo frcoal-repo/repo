@@ -113,6 +113,40 @@ Tag: role::hacker
 Name: Atria is moved to dhinakg.github.io/repo
 Author: frcoal
 
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 1
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 332
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_1_iphoneos-arm.deb
+Size: 253970
+MD5sum: b7ea2e7d7906d890fd0300d8cd2618c9
+SHA1: 2749636d9606b7b6cb25d94841261d45a720b58c
+SHA256: efa561243e1c6518c52d64bdffb64f4518e000a36483b2e62b0ee88217c882a2
+SHA512: 21b8283631b75409629a87be798b648dd361d2c769e322878ffa7e125fddcb111131170dbe79283de18dbbcbd78faa38ea867cec7906ce76aa4c7c2cbde1e14b
+Description: Under construction
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 1
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 332
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_1_iphoneos-arm64.deb
+Size: 253988
+MD5sum: f26981f96916660179dc3640c9aeeada
+SHA1: 9edef2d1c02b80d8f5497ae46fe9d1873ccc5cfb
+SHA256: d32edb3e49ae0385170886a3b480c3a3bf74a8bed24ac1b18c722f46cd8d036e
+SHA512: d07c530ad9c42dd4bbb6c2a3a5630c2980b96ac3afcaac6c25175ae15577fd699224ee3aaeb481e9d7c5a94bb5aa819fd42e8548e35cde2a3ed9eb66bc46e89a
+Description: Under construction
+Name: frcoal Theme
+Author: frcoal
+
 Package: com.beckettobrien.btmanager+
 Architecture: iphoneos-arm64
 Version: 1.2.0-rootless-3+debug
