@@ -504,6 +504,40 @@ Description: super basic notification logger. writes files to /var/jb/var/Docume
 Name: notification-test
 Author: frcoal
 
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-40+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-40+debug_iphoneos-arm64.deb
+Size: 5118
+MD5sum: 116c2ba3a2cf6c2cb5e5b08966e364d1
+SHA1: c6d65f3624b50c7d505f30b23b578d63e79f6054
+SHA256: 227239d0d3df0f18fa56e1e79ffbbc62a4a2cc1b132464ed7710f3993f82324a
+SHA512: 70ad31fdb58bca32d9288a7d46b91511c7a5120560ab77c4a036393742346a1e1a928017f222e18a200d0803c04f8c0f4149cc95728adbc898025d903bafe27c
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-41+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-41+debug_iphoneos-arm64.deb
+Size: 4326
+MD5sum: cd380b2becdd9a1abc0ae604bb804447
+SHA1: 979bc82d11832c6f9658de747f875f65ded868ed
+SHA256: 13c25ee3eb5da924d4c2330fd750deca3e18d4a6f65e3341510c58778ca92a71
+SHA512: da9a32f7efef3b356a6d20d29679b92a1d06bcde226bbca79ac8c37b3352b8ef466f419c3431eea44d0b6cc2e4396aca59d55e2519c9e490bdb79b80f9db72cb
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/ so make sure that folder exists and CREATE THE FOLDER IF IT DOESN'T EXISTS OR ELSE THE TWEAK WON'T WORK
+Name: Notification Logger
+Author: frcoal
+
 Package: cfd.frcoal.theme
 Architecture: iphoneos-arm
 Version: 50
