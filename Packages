@@ -909,6 +909,23 @@ Author: Hearse
 
 Package: com.hydrate.fishylibrary
 Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hydrate.fishylibrary_1.0.1_iphoneos-arm64.deb
+Size: 107436
+MD5sum: 0de4aa2e1c8e755a2a1f0313d7fd35d8
+SHA1: ea680fd676b03c807e5bf43ddd5f24078f3e0caf
+SHA256: b38e654f75a5258b7d3abc1186ec5b6db57bac8d6a8447128c13095d0c2279ad
+SHA512: 2b3dbcea7df672fc30b9b8151f9e629b3abeb84ac152cd5b13f5ab248ff934f112068327cd25fadc76d639ecfcd63066cb92dea3a954630b7a5f981ece08a42f
+Description: Lets get fishy
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
 Version: 1.4.9
 Section: Tweaks
 Maintainer: Hydrate
