@@ -914,7 +914,7 @@ Section: Tweaks
 Maintainer: Hydrate
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./pool/com.hydrate.blindlibrary_1.0.0_iphoneos-arm64.deb
+Filename: ./pool/com.hydrate.blindlibrary_1.0.0a_iphoneos-arm64.deb
 Size: 3064
 MD5sum: 28926770e567237ee713bdabeebf432c
 SHA1: 536c8860a845ed4f2081dec8c1aed73c51054e43
