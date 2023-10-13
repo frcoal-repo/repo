@@ -915,11 +915,11 @@ Maintainer: Hydrate
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./pool/com.hydrate.blindlibrary_1.0.0_iphoneos-arm64.deb
-Size: 3108
-MD5sum: 93d468d477601646d86a150bb307474a
-SHA1: c4b841c6a83aaecbbb290b9afc3d219a006a7969
-SHA256: a33dd44bdab2cd8ae22b81e18fd64653c338937317b62367816439e2676fe6a7
-SHA512: 599a5cce3348c36832af5adb6fe9e0f9be611dcef9e8a5036fa42015daf281e2b7b3b0224b377a4778b78416304b4c017f05431240e538fc476eed473b1f2fe6
+Size: 3064
+MD5sum: 28926770e567237ee713bdabeebf432c
+SHA1: 536c8860a845ed4f2081dec8c1aed73c51054e43
+SHA256: 47f6f426fa53e46da21c5b9e130167684070fe9195dde39aab0685c9cb40e25c
+SHA512: 9bbcee69adba8d990ec18b5466c4cfc64d35eedfa809461bb713b31b793835e4fa665a71eb508500f61d18cac6a855dcbc239b20f904e6770ec1c8c81afa0beb
 Description: Lets Play a game... (R.I.P CC background)
 Name: BlindLibrary
 Author: Hydrate
