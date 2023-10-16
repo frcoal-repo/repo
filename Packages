@@ -861,6 +861,40 @@ Description: The definitive fr theme. Now taking YOUR suggestions! New icons mad
 Name: frcoal Theme
 Author: frcoal
 
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 65
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 73440
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_65_iphoneos-arm.deb
+Size: 71396166
+MD5sum: 944772c73b863a6e987658e103af3241
+SHA1: 83dcbb726b71fb7d2d03bdf07ac5f7796dd1bec1
+SHA256: 430a2e54935bdbb2e7a6d86a95e4d2d12df421d71d2f8d2189eab74a75aa79b4
+SHA512: 0b0b5bd38220fcb39d8a93357a312c8c8e88203f73e809dc46efb6615c540f852886b8d432dac25bf69286b07adce75a39aca1d0d5f9a101d42f207ba7e3cd0c
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 65
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 73440
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_65_iphoneos-arm64.deb
+Size: 71396334
+MD5sum: 6e5061efd288c68446fa8c44ed87476b
+SHA1: 16960ac4570556f2b41dc0adf7d186580d53888b
+SHA256: 8f5d4e28c3e759d71812d080fd85cba70fbc5e19e9b27f6859cfa592cadc06cd
+SHA512: 274a49d15aa2b45e8332eac6294a04c22a162f4e3b2ed7f731a6aed3f7be32f4cd4618d677ab2a54b009bc44bc08da4f20b291b4611d66f04528ed6691f00038
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
 Package: com.brend0n.ccnoisecontrol
 Architecture: iphoneos-arm64
 Version: 0.0.4-rootless-2+debug
