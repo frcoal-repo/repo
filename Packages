@@ -96,6 +96,40 @@ Tag: role::hacker
 Name: wfr
 Author: frcoal
 
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.1_iphoneos-arm.deb
+Size: 18188
+MD5sum: 1e05bd33e22dc9f3ce9bb77bb2665285
+SHA1: 7ee614e2a5b29e020599cf4117b89f16804abb9f
+SHA256: 01ab6de56fa84bb0d67332adc81709a1d10f457681eec8e9cbd9e1c16e2dea38
+SHA512: fc713273780dc564c915952d261d9fb354df7478eb332085a596f92dd5523b37197e5b785951e953b2b986692cbb0aacdd3693add180c9fcdf28ec76f0ad8ab7
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.1_iphoneos-arm64.deb
+Size: 18244
+MD5sum: 15c8eacf3b6a8716194679fef1e37cd6
+SHA1: 05391c011009280872c361119b1fa4a505c9fee0
+SHA256: ba1af774a26f1bf241d2183f7d1e3797f419bbe0ef3b46711dc6197ae58a2a27
+SHA512: dbf8079a969f889f3ddd6f3f1d355ecc76c11bda6c0d23bf3ed64f03b119194b319a291af1f0fb918019646afae1c7669b4e610f3880e91ba60ca52fa991b75f
+Description: my ball
+Name: Ball
+Author: frcoal
+
 Package: cfd.frcoal.notification-test
 Architecture: iphoneos-arm64
 Version: 0.0.1-13+debug
