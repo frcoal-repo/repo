@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm iphoneos-arm64
 Codename: ios
 Components: main
-Date: Tue, 17 Oct 2023 04:52:46 +0000
+Date: Tue, 17 Oct 2023 05:53:09 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
 Suite: stable
 Version: 1.0
 MD5Sum:
- 4ef900f5714ac324a7e02cadb2976ad9            65226 Packages
- 482e04688410cd9747bbe61c43b5f8f8            15658 Packages.bz2
- b031cab2ce7c3c59f6134442b3b695de            14464 Packages.xz
- da8f9626aa27eb3cbb0aa7bd8a9dc99d            14640 Packages.zst
- e784187bd83a7c418a9e43042d5d5567              188 Release
+ aaa178e68e7fc029c74f10687ef4b986            66420 Packages
+ ce45ee1faede651296698dccc1b38cd8            16000 Packages.bz2
+ a88ca1d8ec59728585c54f87a671c0af            14784 Packages.xz
+ 2cd87b76a975f99f04cab61cccaeab99            14948 Packages.zst
+ 6fe88ea05ed89b1581ba13c081856e72              188 Release
 SHA1:
- e24fe287feb9c48ef758a1e179f9b1a6d69fb793            65226 Packages
- b783aa6316ccd2b7b8eb5a6967146e85dc9e3d72            15658 Packages.bz2
- 20dfa5df5989788194b1aaf6b6b715f091e18979            14464 Packages.xz
- 27291423bbe1fb87687df0a77b6a7a6da60a8441            14640 Packages.zst
- 8eeef4840394b86ca5f8994f6b5807e1add5b87d              188 Release
+ e19d0b74435dba910fe9c4fb4f7c893409a4f24b            66420 Packages
+ f2adc10c4162ee4df20fdbbd16184d26ea700c66            16000 Packages.bz2
+ e8db093e16e815553536aa177fc6ffd4bd1e7aca            14784 Packages.xz
+ 5dbe8ca5eed680c95ff1577927585bf0e73dee48            14948 Packages.zst
+ d30fb43de2b40e6ea00574177ca1eeb399a2a202              188 Release
 SHA256:
- 457a6f5d0e74967004af0985c6500fa61431ff8973d41d9797ea26359a65f6d7            65226 Packages
- e078b1fee971cc47f9c2925a2d5ee5c85d0e2327c68fb154d5c1d6cc2f2806d1            15658 Packages.bz2
- a8e700f3bcf5d0e1b9836d73af9f7ba3eb27d991f6ba9818323264796d0692c3            14464 Packages.xz
- 8a4f28e090fc879e6f6a470ec45ee3f1a96099fb2072c2ac9d1f23394c8314d1            14640 Packages.zst
- 472d3de896a4c358e07effcef742a269a62e0f089f74a11cb606b86d3e67a6c8              188 Release
+ 0f3cc910b2b45e47d0ad8b450c880978e8e95acecae79962e54d80c5cfe4f400            66420 Packages
+ 6fc2f59ab5124b825358fb12a6c01c689bc3913216da4b0130df0936c1424298            16000 Packages.bz2
+ 834538c62f584fa195e6ca1bd405ba0cf271b284996f4825301003a564fcd352            14784 Packages.xz
+ d6ad4bd1527ad939cade8da09721ed79199d9a17f9324984ddc420516209509e            14948 Packages.zst
+ 4be2db0213570decf0308b2dbbcf0f154102fb3fc72d264acfebf9e1e878a0da              188 Release
 SHA512:
- daa9ddb2ffe0277f62d4c06c014b2b84dcddb4083768ce58b069dcd6cacd7a11005e008a751e70be585f12452bbadd61f51f810c324d9018fac859f0cb93340b            65226 Packages
- 317413ddf1ab8534a8658fbf1649007acdfec857b751ca418cac0e8b4e2ace881483a236872f7c29b8645efee596589d6d8a242f07cf0e25625d36798bd1a243            15658 Packages.bz2
- 4e46fdfa622f46e907cfab815ef7779cb1c81930992c299aa5cdf8a05ca7bdff0e9519c2dd1fc49e4ea7e2414cdc00be7de5a86918538eea9941d26602d5e13b            14464 Packages.xz
- 076e06ae22994fb0326e364807ea5b38bf9b1d75757ca80d55ee264e037fda2dfe9b90bcce718b279fa63110e101583c3015f45b37576f6ae461ec02579e0d8b            14640 Packages.zst
- 38a96c9ebabd5c67a1ece488bf07b4d398cc2be9cff8e954ce3f9d7a1847fb4c9eb6fe42cc9632728dfb4867926f10f13878263d8bc5ba7547f9b620e8b44818              188 Release
+ 6b33bb97abe62d65aef825e5872f1076b341f930ce39e9aa4803dd156ddffd2d01d6c7c89317aebd1a2b327f78b3995960560d45ac405f5e4208ffa8d2b6f96a            66420 Packages
+ efaa8695d206b441c8edc959917eb3629fe50a2b77909ad19b900e3384b388151f3ca8ca6bc93176eef469ac682f2834ee1c0d366e8f376ffbb9b3c2c8f98330            16000 Packages.bz2
+ 795e81ef6fb2da0c70ecba1ada77b8d5519d96b0fa632deb0e9cdaecbdb14b4242cd0b5307758858e196293386d0e7195811457804ce05e28edd0c26a3e0989e            14784 Packages.xz
+ 877b5a78ef26791d2ee7735f9f50ed1e721de334d7e0f5ad18ccd9b50ef0f1018bd8d965db56062c4bb70a1f9aaf02cd48931301fdc307d10ddf0386051b4ed2            14948 Packages.zst
+ 4068956765e7ae11f7399146cd638e5538a8d96057e9ea2eef62987532c3d046b54c3dd29ebb33376edcce244c7f68ac385070290b79abd74a314a2ba22a5e1a              188 Release
