@@ -164,6 +164,40 @@ Description: my ball
 Name: Ball
 Author: frcoal
 
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.3_iphoneos-arm.deb
+Size: 18222
+MD5sum: cc65e9ecfa4e69c022b127e2b8276229
+SHA1: 12e0f0476790f361d984a49569517e50d95a486c
+SHA256: 4fc7188194d6af002e24a65407d4f6af92b2e308a7bea581fc3a630027c9bdb0
+SHA512: 469f320a41db812672e420fce6857e0f7420a06c61d83c164aeffd938c860290f104a844db412a82b57febab4931a8be06f3c49504e758235445ccfda574b957
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.3_iphoneos-arm64.deb
+Size: 18246
+MD5sum: 081d0d0aa06f83600c6bca060555fae0
+SHA1: de7d48d5fd4322e98aabe1ccdf11d16195bba6da
+SHA256: 7cae351fdaa3d66a79fb777bab8b7593b8160b08aef54081e9b925f2e274ab51
+SHA512: 9806433da72d8f2faa20f95c1e3d21289db81c8a8d052d825d2263165eab4da4dad82facae6bc60db616f97d347909d5ae5c17ca53b7daf5eb7f1837a7ac872c
+Description: my ball
+Name: Ball
+Author: frcoal
+
 Package: cfd.frcoal.notification-test
 Architecture: iphoneos-arm64
 Version: 0.0.1-13+debug
