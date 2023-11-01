@@ -992,6 +992,23 @@ Description: Lets get fishy. This tweak replaces your app library with some fees
 Name: FishyLibrary
 Author: Hydrate
 
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./pool/com.hydrate.fishylibrary_1.5.2_iphoneos-arm64.deb
+Size: 107542
+MD5sum: ecb3458abf093aa058f6e3cef06269c6
+SHA1: c02148d90c1fcaf1bb3926262046285bc12fd769
+SHA256: c8f724e58f1257c117aede5ccde6a66cc12a3ed2b1e0a905329af590c11a0fc1
+SHA512: a965e506027bc2161befbf059975be66c5451cfedfc228ea5f2e705673b0314e4944d99d868bc6feafbd731b26382ac5734e74d3812b04a7629c9f9b89f84dd3
+Description: Lets get fishy. This tweak replaces your app library with some feesh.
+Name: FishyLibrary
+Author: Hydrate
+
 Package: com.mtac.uptimealt
 Architecture: iphoneos-arm64
 Version: 1.0.0-rootless
