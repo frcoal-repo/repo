@@ -1060,6 +1060,23 @@ Description: Control Center module to view time since boot. MIT License Copyrigh
 Name: Uptime
 Author: MTAC
 
+Package: com.nathan.homehider
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.nathan.homehider_0.0.1_iphoneos-arm64.deb
+Size: 2576
+MD5sum: af88daa5943b86ebd6c5cd2051b80d4f
+SHA1: 2434a2522630cfe99eae4b81aca15ff7fb2ad8f7
+SHA256: 46ea5de0eec86014521d4d5f52d251032dcf0bfb855ce7b8ff1729753cb1dc89
+SHA512: 056bba33707fe280a417df71639f4a7bec5e9e7b78e6a19ac16dc3ce2b23818ff429496e980541f77c8ed32557b22d822396c96d082d8b0c92e9761d6e8740b0
+Description: An awesome MobileSubstrate tweak!
+Name: HomeHider
+Author: Nathan Senter
+
 Package: com.tako3s.printemps
 Architecture: iphoneos-arm64
 Version: 1.1.0+1-rootless
