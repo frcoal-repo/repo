@@ -793,40 +793,6 @@ Description: super basic notification logger. writes files to /var/jb/var/mobile
 Name: Notification Logger
 Author: frcoal
 
-Package: cfd.frcoal.skibidi
-Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: frcoal
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./pool/cfd.frcoal.skibidi_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5798
-MD5sum: 6e1a5acc1cc384c262c696d53b05f2ca
-SHA1: 5c823cc754ef3914ea90c7f961aa409a7c77b658
-SHA256: ec7cdab7d420c6eb3fb3fe1ab430ed52948ab41cf28d691f4b4023987a4ec77b
-SHA512: e6cede4bd6a31eece00e782f70df26a46e4b86ecdfc90ddde8b6cb3f73d10e427bf681812e5d7b71146353e8160e4d90b377102d78d9b6cb6063407b79349810
-Description: An awesome MobileSubstrate tweak!
-Name: skibidi toilet fanum tax ohio rizz kai cenat
-Author: frcoal
-
-Package: cfd.frcoal.skibidi
-Architecture: iphoneos-arm64
-Version: 0.0.1-2+debug
-Section: Tweaks
-Maintainer: frcoal
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./pool/cfd.frcoal.skibidi_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 5862
-MD5sum: 43b332d14076b8233604d07d0e70a515
-SHA1: 6a0b30988cd780ef77450bd9153862edfb2135bd
-SHA256: ea9bce2f49d23b6adcea8ba2a780141dda9d719e61faa66914e5349945ed10a2
-SHA512: 2e764e268761666169c12f99fc4f12bc17f26756fb73d14e80e39fd007d1f2400feac72b6d637decdd4edbe19a30d5f82ff8ed4090e2f96ea403eda70ae25544
-Description: An awesome MobileSubstrate tweak!
-Name: skibidi toilet fanum tax ohio rizz kai cenat
-Author: frcoal
-
 Package: cfd.frcoal.theme
 Architecture: iphoneos-arm
 Version: 65
