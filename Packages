@@ -1,0 +1,1417 @@
+Package: al.frco.app
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Utilities
+Maintainer: frcoal
+Installed-Size: 548
+Filename: ./pool/al.frco.app_0.0.1_iphoneos-arm.deb
+Size: 320540
+MD5sum: 13d26f2ed75839c262b8970919b1aad6
+SHA1: 63e2bc45aaaa73369e38173f3afe0345dc8f4909
+SHA256: 8ddc0402368328f9a6b5663f0513c768706b8df32d5c0d09bac379bb56259190
+SHA512: eb474f71921a979f9121d37cabb5be0ab6903084d6186d7698a3489738d1635406e6d6eba7b91ddbb31bdef004599bd51666ae9828448c0d7cbf06596dc748cb
+Description: An awesome application!
+Name: fr app
+Author: frcoal
+
+Package: al.frco.app
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Utilities
+Maintainer: frcoal
+Installed-Size: 548
+Filename: ./pool/al.frco.app_0.0.1_iphoneos-arm64.deb
+Size: 320580
+MD5sum: 84d29854daeb29a499460fae37dcba93
+SHA1: d45a446a0a01a1cd247874172adf8130941b622b
+SHA256: 485570ecd75bad22f8972ab1788ae2203068aa11cabb692683291414c767e876
+SHA512: cee9245cb5bdfb93ec89179831215471dff8d4e202e28823dd871a8759ae2e8563b58cb90935d401d84d167ad5095827fbe17a75e5e43ad9b8730d8d11032f36
+Description: An awesome application!
+Name: fr app
+Author: frcoal
+
+Package: al.frco.app
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Utilities
+Maintainer: frcoal
+Installed-Size: 548
+Filename: ./pool/al.frco.app_0.0.2_iphoneos-arm.deb
+Size: 320532
+MD5sum: ef15e4b698ae94ffd95a8e1e5e05fe44
+SHA1: e4e822957f9e09a0e0b122c0e7fefd7fa6eb85b0
+SHA256: c66f13104f938ebe6acb531ecab378057cb31f4ef66f2489da7d8fdb264e1fad
+SHA512: f9c987a692f886d77f581a2417c73d3494b01781abd6e405b869a87b35be913820cf4ffde170acab36c242782c8e6978892e7e1c32ef7ca4622dc97f86969a70
+Description: fr
+Name: fr app
+Author: frcoal
+
+Package: al.frco.app
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Utilities
+Maintainer: frcoal
+Installed-Size: 548
+Filename: ./pool/al.frco.app_0.0.2_iphoneos-arm64.deb
+Size: 320558
+MD5sum: 891c39019f13554e4d09a7844c66af9c
+SHA1: 2b1fcb863b37b3a2a49a61c5357eb6b26ecbb87a
+SHA256: 265d71aa80179738b20bacf1c995ad6dce1a4b40e5cf68fe485f29513d354a4d
+SHA512: 395c05f7dc7489d7f48648908d7a4a471d1ac4c33ab35722e864eceaa9a88e6958c344c9d5f970b9cad3c0ea54b39b3fd19f56fdf74af23dbf38725adaf9b228
+Description: fr
+Name: fr app
+Author: frcoal
+
+Package: al.frco.wfr
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: frcoal
+Installed-Size: 196
+Filename: ./pool/al.frco.wfr_0.0.1_iphoneos-arm.deb
+Size: 4160
+MD5sum: d79c6521db69b45afd1ac42ed685022a
+SHA1: f9c1d57b84574c2e3c2a743ab72d756d90eaacaf
+SHA256: 5203a12a95b1b813b977fe14caaf82c424e864fe0b9f359c3e59cccba84cfd18
+SHA512: 04b2f1bd5a39a7249ea93617c23583dbc5f49c30666a7d8b4178f9d27bae70003884afe1bfe4e8b896d44c5654b3027541574e4c40edf0c29861e7f66f3fa62c
+Description: wfr
+Tag: role::hacker
+Name: wfr
+Author: frcoal
+
+Package: al.frco.wfr
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: System
+Maintainer: frcoal
+Installed-Size: 196
+Filename: ./pool/al.frco.wfr_0.0.1_iphoneos-arm64.deb
+Size: 4188
+MD5sum: d9bf5f1cba3fa46d4bb9ff200830c872
+SHA1: 908e342223cf7b939b783a0ea13fafeb1786acca
+SHA256: cce44cbdde1ab2d565ea7c20636646eda966f680710595ebb27655984147a243
+SHA512: 0447cd1a288154e061d0f2232943ac026963994c1acdca55ece2948467f6a110f226beba2534ab6a235e1362afd792afcbe9979d4573b39ab49ab2a57a40c7b2
+Description: wfr
+Tag: role::hacker
+Name: wfr
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.1_iphoneos-arm.deb
+Size: 18188
+MD5sum: 1e05bd33e22dc9f3ce9bb77bb2665285
+SHA1: 7ee614e2a5b29e020599cf4117b89f16804abb9f
+SHA256: 01ab6de56fa84bb0d67332adc81709a1d10f457681eec8e9cbd9e1c16e2dea38
+SHA512: fc713273780dc564c915952d261d9fb354df7478eb332085a596f92dd5523b37197e5b785951e953b2b986692cbb0aacdd3693add180c9fcdf28ec76f0ad8ab7
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.1_iphoneos-arm64.deb
+Size: 18244
+MD5sum: 15c8eacf3b6a8716194679fef1e37cd6
+SHA1: 05391c011009280872c361119b1fa4a505c9fee0
+SHA256: ba1af774a26f1bf241d2183f7d1e3797f419bbe0ef3b46711dc6197ae58a2a27
+SHA512: dbf8079a969f889f3ddd6f3f1d355ecc76c11bda6c0d23bf3ed64f03b119194b319a291af1f0fb918019646afae1c7669b4e610f3880e91ba60ca52fa991b75f
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.2_iphoneos-arm.deb
+Size: 18236
+MD5sum: d6c2264c821dad6255d4b1a9be4dd5c4
+SHA1: 8a69ca864c39320d85642df33fa4349194c5bc82
+SHA256: f3c8ba2a8d4310361cd9bbc19d5f945e417d2c1766c02383b40c6ce79595947a
+SHA512: 11d4a76a35c3a8ffeba4d238e7ffe5482ff016b96e626fce9330870b5fa878ac1ac79116f7b93b408574a474a0693c695ee7112324204508db04a80de4637e2b
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.2_iphoneos-arm64.deb
+Size: 18280
+MD5sum: 9238e1d32399be1d1547a61f8379ca92
+SHA1: ed49c689cc339d370a0de37f3ce951561c7f7005
+SHA256: c6885de6d1924a2d71e343b735fc8064e45ee655a51225a83fe6d4b0b4374868
+SHA512: e5087b00c1761f8fc06ffd026f737fa3bbdc1510121cec87c8e1437fee7c6235722b72e8bf76e5d073c2f3185496f35fc21862b5f87713518d2206cf6bf5f02b
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.3_iphoneos-arm.deb
+Size: 18222
+MD5sum: cc65e9ecfa4e69c022b127e2b8276229
+SHA1: 12e0f0476790f361d984a49569517e50d95a486c
+SHA256: 4fc7188194d6af002e24a65407d4f6af92b2e308a7bea581fc3a630027c9bdb0
+SHA512: 469f320a41db812672e420fce6857e0f7420a06c61d83c164aeffd938c860290f104a844db412a82b57febab4931a8be06f3c49504e758235445ccfda574b957
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.3_iphoneos-arm64.deb
+Size: 18246
+MD5sum: 081d0d0aa06f83600c6bca060555fae0
+SHA1: de7d48d5fd4322e98aabe1ccdf11d16195bba6da
+SHA256: 7cae351fdaa3d66a79fb777bab8b7593b8160b08aef54081e9b925f2e274ab51
+SHA512: 9806433da72d8f2faa20f95c1e3d21289db81c8a8d052d825d2263165eab4da4dad82facae6bc60db616f97d347909d5ae5c17ca53b7daf5eb7f1837a7ac872c
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.4_iphoneos-arm.deb
+Size: 17546
+MD5sum: 7b552dc62a222e9e4788a90e31e04cb5
+SHA1: 896c650d7ee59c47bf8f218a8113c8ce9c11521c
+SHA256: 975dab465766b55748370a472ff0134fdc62a3741df680bdafd162e910100d9c
+SHA512: f6cc24e32be853ba10d519df43500dffb94bee24cd88eb0abbba1949830667796ccb619d709848ec0e589a98411f79fd94b5a51aa3a351cc1bc688e49b8bb3ee
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.4_iphoneos-arm64.deb
+Size: 17584
+MD5sum: 03dcad091a4c57a7d31b38070d783683
+SHA1: b42ff428cc9d2522bcaa37481f52990d8ef0ae6c
+SHA256: 070b000788696582e8e07c5693a64791f25ec25973a8ddd0a75fcc674483065d
+SHA512: 74f9b826dff45a9c64e7f2f0e84dc1658fbaa08c968a3c7bf63a78dcc422725e85dff021abca7615a8e0a03f5f6d724d76bbf9c93730d23906a5441d10064017
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.5
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.5_iphoneos-arm.deb
+Size: 17074
+MD5sum: 69274695954c0f4b9b6fc4c251cf1a28
+SHA1: 2d0761e38fd62927ff6b0c3729515592d8edfcdf
+SHA256: dafa55c8e9beef60cca4f2b7a082fd254571668c554cb295522d6d6480c63748
+SHA512: cf351c150d0c85fb59807859852868157a7ce71de7098acf867bdfed64e836ae5c1b8c5a671e116a71694203c98bcc0e47c05d5d7a09e8c3b2f64712bd1c1eb9
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./pool/cfd.frcoal.ball_0.0.5_iphoneos-arm64.deb
+Size: 15046
+MD5sum: a98dbefe66e8f39408fbfb8c4600cf5f
+SHA1: 052eced4790d16ccc1c332f5d4c02b5604be15e3
+SHA256: 9aa4f03f07a087624999eff0400e15498a8bb9c539439405522ef7444ceaa527
+SHA512: b844abd725c240ac8aaa102a0014314373aaa8465a6b838992a6a058d42d55121c058527ee792868472732fc5fa7f13de3234c07443ef3c6051bcae31708a61a
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 148
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.6_iphoneos-arm.deb
+Size: 14572
+MD5sum: c6456a20d05d489899f9354df065c09e
+SHA1: b6c6abbb0cde908067ff552a70c0f2a1a69177c8
+SHA256: f9e262940c72ec178d2afe6113e5dc79b45d43543b729380c1b8d92613b82c9b
+SHA512: 58d2760a94813f56143d8c32cf1ab2081d7ee19a09a66febb255e34c59d233c652236dddc45e14d3b3378c652bc6f800994befb432eff86225035fbceca24b73
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.ball
+Architecture: iphoneos-arm64
+Version: 0.0.6
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.ball_0.0.6_iphoneos-arm64.deb
+Size: 15028
+MD5sum: e84337cad1108fe578611a9104586868
+SHA1: e07d621329cb9f77f4b7f32c181e226175a920fd
+SHA256: e30ce51a3aee9275008cea6c1f7eaeed9b0e898d28d5d87fb99b98344cf9c71e
+SHA512: f58fedeadcf2bb28bb6b74f3862ceed2c812ee1520de1326bb9fe482683fb269bb078497bf0f03df55c8e3fa5e67038ef3e4912ea622c2ec7a94860bde7567bc
+Description: my ball
+Name: Ball
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-13+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-13+debug_iphoneos-arm64.deb
+Size: 3596
+MD5sum: 5e47018c300671fd9c4ecf4831c49602
+SHA1: 991e308e1c802cfbd2f5ed4119277ba803ba75d9
+SHA256: 6b568174ff2411722c010038176db9a4b8bc7a1372da1aa3070161066ee5aec5
+SHA512: ec77b8d564a07ae623189f166ed4e8523d4a36d351d58357d739a9f54274bc2966623d885f1116a8fbad7dfb0e8d922d97e0285c35d167312340f4cc629e2c70
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-14+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-14+debug_iphoneos-arm64.deb
+Size: 3606
+MD5sum: aacb5e0556a268330c4f7573079ae480
+SHA1: d4164aae20e51205880e52a5c9d68c7642fa1579
+SHA256: 738205736c7159215def6e480e95854a28eab3a1793dd3bce5b21624fb8fe9b4
+SHA512: a3c1e7c3d2b19764858aa571f987859b80d1b70fab89233795b6cf0366afa6aa195be42a6992f52a8a1ccd88e306dc0f10a0d8fc0ed4019d3a95a5ed82abea8f
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-15+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-15+debug_iphoneos-arm64.deb
+Size: 3906
+MD5sum: f79f19b5bccafc9ac8dbd6b41d0cfdad
+SHA1: 118e6b8066e00b1b2953620dec6419638ba1643b
+SHA256: d39b255eb1ed7d0fe76d1ed77330a9d303f22bc8fb0c6f975cc4e19d2ae419a7
+SHA512: d88386ed1ddfeb08db39923fbbf89e87e4dea5ce43d052aab31f4cb5895f5f890f0c46df042c3fcb6811757a48da251c11ec39af4d0257df879d18ada3638f82
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-16+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-16+debug_iphoneos-arm64.deb
+Size: 3944
+MD5sum: 3b862bbfb658c2f1949ae856122f4942
+SHA1: fe6e93ae354d65e4715a1e211aa0322a7291eda1
+SHA256: 89fff7a19863977ecdc912c66806396f29aafa260996dc0b2ab020aa587f966c
+SHA512: bddfa8055d82075b61575fdca75241dcee5bc5ef0de48ad72a31edbd30d210ff264b9233b4c82fd9a8227f9687fb39e409448ddb2e9f5acbedb08435f4252525
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-17+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-17+debug_iphoneos-arm64.deb
+Size: 3944
+MD5sum: 171695f8b4a65d854f86f1be2203bf9f
+SHA1: 7bd45ad105d97454ee8c62efcdda8e989a1ffa0d
+SHA256: a0469e9f0d208d782bb5d0b096696da9a5e9d554251fdc9de1f9e9a770b9050e
+SHA512: 523953184f8176bef88e6878afa21117e20c14e7d4f672553a2ce57feb3bd3db5b25cacdbbde74b006bdcbce21f793e1d70c7f11c699a50bd74f5acc48d3b2d6
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-18+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-18+debug_iphoneos-arm64.deb
+Size: 4786
+MD5sum: 11a2441399ca59e815ea572e212305fe
+SHA1: 0e1e6936e649452164a28bd79cd8b6ab1a1d72fc
+SHA256: 1f4e1b409f3a2dda8c22ebd33f3f0f46cfe95e8a4f5e72ec52f2cbfe85319146
+SHA512: 199ad5c5c98d8b8093bab958dd03b74005773c727820291db01c87d2b3a2d674793c7c31c8b9b4425aa5277e8dde11fce4ed851cb98c65f92ab5353b5b143f7f
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-19+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-19+debug_iphoneos-arm64.deb
+Size: 4214
+MD5sum: ce068fe9ed75cd19ce35c0e3139872fa
+SHA1: 9e5a6655cf240027f4aedc0da3759d904f754ca8
+SHA256: 08532775bf09e2edd45d8be9ba0392bc54a9f4e56ab30199aad648304bb98b81
+SHA512: 779eee6cf77c4271429ad0a5f1d7af240a05ff5ebb2a7ff83dd27429a1f0eae13c9ef2cf5baf77612ecf56b1de257b8b0e3c5392aa96aaf7a80a618f0ee25f9e
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-20+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-20+debug_iphoneos-arm64.deb
+Size: 4340
+MD5sum: 6ff70a7495f57cf5767441949477d8f8
+SHA1: a822ea66555ef81033fb58a01bef38643963e41d
+SHA256: 7e4b11cf6e547c4074679b5cc16fc00f2a095025cc20aeb9b1f2fd16583c5c7a
+SHA512: 4b709ed643597a89fe0c38f88625baf17c338158b5bf27d4a20eae40b5e0d35808047ff693f81c08922e0c5c367fc2571da2231779c3c2f1f114f9b4e5051441
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-21+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-21+debug_iphoneos-arm64.deb
+Size: 4782
+MD5sum: ec39058fdf66821ce96312a12a0969f9
+SHA1: f91917becb29f3ee73d3426d70e290162df7ede9
+SHA256: f65ac2b6a53627beea682d10675306eaa82c4f4f01cdea9e991b27709877da00
+SHA512: fa437f380e98ccf835bede73cfba3a1f08d00d35027280e2bf235203aa8410d263ef8f2e4877731baea71e4b68395ffd1c28aff1f05b76a3cf62ae16e369eadc
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-22+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-22+debug_iphoneos-arm64.deb
+Size: 4762
+MD5sum: 64ffe03860c66611047716506afb42bf
+SHA1: df9aa279ab4dfe6624e38e21535175b6a7fcafdc
+SHA256: 5032e182f17ef23600baa768a1d9d62828fcf4734fb83a17362d75eb1eba3a05
+SHA512: 018c4bf3c7596394c6bb10ef59bc6f9f4f509bc2f767b07453ffb5cdacdb25afcd78f685f1e097d700cea204031bbb4617e8fa717f853029925c85b9917ab390
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-23+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-23+debug_iphoneos-arm64.deb
+Size: 4724
+MD5sum: 0e3f2cc4a36d1b2ca58f8e3e87317751
+SHA1: dc96fa7b602fb17442f84fe36e77689116964e85
+SHA256: 39c26b87bee64eee4999802f1e64c5d7f459f8758859b13c55d3646f26384edc
+SHA512: 5354d1460bddfc39fa900e4279e4faa6c424de2a17c1ab93d0540157c1fe7f3d367dc60e522f45315913221f26a75e1eadf9892bf7b83980ef740214bae1500c
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-25+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-25+debug_iphoneos-arm64.deb
+Size: 4768
+MD5sum: 08d080bf8088182a9e10e0ef828c1291
+SHA1: 95f12601d5c6046330e4a8030a4d94abcc084547
+SHA256: 2c1a7d7c2e3865667cf4f4f28460143cd72a0e6a1bfb641473e55dfbb28008c7
+SHA512: cce936acc36d7744b5bbb92f4b16962f78b2bb10c544acb2891109dfc477ae6f64b16c2325bc533736457ec15a845c90fa88a29e18b180c2d8577f49566899ec
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-27+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-27+debug_iphoneos-arm64.deb
+Size: 4910
+MD5sum: e8eb2a71c92245c1ff9cc9de54e75799
+SHA1: 6a89364ee732a7023f4eb46d09d9d7d72b8ba239
+SHA256: 9ce38766db756f78afed82801f1fa838d3348d2226e2cc8b9fb22ea51832b8ea
+SHA512: 82a55eda91e3bbd34cc07f557468af9fb20f132e9fa170bfc08147a0b3a7e68715c28d8e50d3d7ebee4beb1b6c11d2bdc1231182555ac8fe4f66a0daac4400d9
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-29+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-29+debug_iphoneos-arm64.deb
+Size: 4988
+MD5sum: eb115518d55500aef7a69174d1da969e
+SHA1: bac1a2911febe7352115cd5ebdf8b2bc679c9d2d
+SHA256: 3536c42a1727b4bb34897fe59795ffb7cee77c81f145cd4294f5364723d4c872
+SHA512: 63a97e546dc73dff06f223f935885ba49dbd5718f7c079df8d1d5487d57d001d1b8a5c81e8029f99c6f1b7071e5abfd6c82ca60f57d15eb272b48d14eb623ab6
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-30+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-30+debug_iphoneos-arm64.deb
+Size: 5066
+MD5sum: f07a51b2bcf443c8c0eb0f76fa4d2cb4
+SHA1: aae97439a08626d1e79ec676afdef33ba8a2ea34
+SHA256: 741dee8da41e65f794aae8ff95352552ceb4369f33b08ca2376b66da1ede92a8
+SHA512: d60bcf268896defbde3f45801ea6921b9c21c908f99184c2b90910ec4a25644fecfbdca2a7c32085360264530b085523b56c8a07da87285ca008239103260b06
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-31+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-31+debug_iphoneos-arm64.deb
+Size: 5010
+MD5sum: 9c7c1d19901f6fb4d4d97c033811ff79
+SHA1: f05f17d0432f2d64a9c028a026fd069778ef82fa
+SHA256: 8b32a5e9a8ac9cdced41f1bc502a2d59a97cd684bc558375af058a942afe28b5
+SHA512: 9b2087edfb8907af99bc7043b507fe5a46954a1cf5dfd7819d4287cd959ed657f2d2f2ebdb45358131111ec51563ce7e311c03c5005f51ad4753e73f165690f4
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-32+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-32+debug_iphoneos-arm64.deb
+Size: 5008
+MD5sum: 357338801baadd9f699a0764cf893d86
+SHA1: 72646ba0a36f66990c60273292359064fecb1f5c
+SHA256: 8c96dbd941017519c99ef6150e954bb6b14bf8e6f83489535d58444dbae461c2
+SHA512: 9fb603e3c804d0554af7a481a8915bb09ca47eba236f4bbd1f8d651aa41571190934a4cbb81e620e565dac3e7c4dda037c13ecfba46f21431a99ff2253ee372c
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-33+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-33+debug_iphoneos-arm64.deb
+Size: 5062
+MD5sum: bdce38fae6c4bdc584bc03f038ac7ddd
+SHA1: a418ff70df528ffb1cfc25ab384885dec17a5510
+SHA256: b37732d3df33a05ebc00a568c6f616e86d4974ca3dbddc33f98fbac7ceef39ae
+SHA512: d3bec64144f8f346bef9c9f5e7a8654523ea33c5983678b9ff30b8d993a9e4f99bd34693e9804b309230dc215986804067aaf1d9ac34b845be3c1b4666dfdfb5
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-34+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-34+debug_iphoneos-arm64.deb
+Size: 5084
+MD5sum: 7c6f07a9f723b7274228dddc561a1561
+SHA1: 3c8f4a90e6d6d6032ebd82a9dc5a79615d98d87e
+SHA256: 6fe6be4a6cf1f1721ff2a69d8049c372657bff9b44f8518187cf465a8c2a2556
+SHA512: 6294a44b85f2be4a664c5da59278e272eed2aae0bfa5e4fe84a6efab91e870bbdc0254c890e95dfffd5cc4e5cd06da04b7cc2254420f7ea448fe81dc608b7abf
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-35+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-35+debug_iphoneos-arm64.deb
+Size: 5078
+MD5sum: b2a262bd968700b62b2d0e841d0b0ae8
+SHA1: b3b08e050c1d98d148c24e53286dbf2559c73905
+SHA256: 484ff711788fa7872d557fd4a4f6876141f8cebb63b7ee681556f205d2cb0266
+SHA512: 43476085bfe0c2ce2757a94936dc8e412b4eca01c51b775b7a2db708328322e1e45e06cc10ffaf6896c1442ef0b8352307e4482635a47157b77ecdd7a151e9f4
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-36+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-36+debug_iphoneos-arm64.deb
+Size: 5018
+MD5sum: 2e52183986dbb188a9fb6e7048349c88
+SHA1: c02f5efcac54116b049ccb60486137bac4851ba0
+SHA256: e7ecb0c8ac3f2e4cbb8d7bbc535bb6c68101f2d5b59d5afee60f4b343d74118c
+SHA512: 3c68bee1cb50688b20483c8175655787c214d87d57b07b6ec2e0c574e650a43351c2a4e70515b70f1d387b13cbad53effc3c77cc14daff0b17a0b08094b0ed78
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-37+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-37+debug_iphoneos-arm64.deb
+Size: 4952
+MD5sum: 55927bcc64c3e1469d0d88ea60f65c40
+SHA1: 9cf76003c6942ae86e4670fb3e8a8cbf661ac538
+SHA256: f9bc9c124a1c37cf3e3fcf33277259ddd8a4779320dc5b10cad908a326183ac5
+SHA512: edbd818d61f87cf3709943306082651ac7ec0aa0dfa76339d42a3704d8605d74be79d28b78b9f3b5e38f0c3fd09dd3df1d69792c399b8b14c3d15dbda5d2e6db
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-38+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-38+debug_iphoneos-arm64.deb
+Size: 4966
+MD5sum: 78aec556052dc4393ecea25a3d15dace
+SHA1: b657562a7a21e99fc2d5c12ebbfecc354498591e
+SHA256: fbbc110f4522079b37a43819ae43021657bf9d4f47e7c31c8da24c210cc24966
+SHA512: aca2146936573c55f4c3e029bb69d9e678e523e3ad6c6339a2d3dbe7166844dd0f5e7ab72e12700a7ecfc29daa706e6c4eb4b64f5472c227b80761da74f289c9
+Description: An awesome MobileSubstrate tweak!
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-39+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-39+debug_iphoneos-arm64.deb
+Size: 5018
+MD5sum: 17fc2160bd86a04a939cdc26d076a2c5
+SHA1: e58d4122d49bf0d380960eef059ecb6ffe2b8dd9
+SHA256: 791cd9bdf9be0f8f377ea3550cf89cf3d6acb142242f2a17fc8fd3181367143d
+SHA512: 4171dbc63df191f89238b00cfe5ee7ed74d43afe26fce1ecbcf95b2a0b5637957f828b64299d6e8033aea39a7bbbb3081139b3983cbf2a7a47dfffdeb8e8561e
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/ (crete the folder if it doesn't exist)
+Name: notification-test
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-40+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-40+debug_iphoneos-arm64.deb
+Size: 5118
+MD5sum: 116c2ba3a2cf6c2cb5e5b08966e364d1
+SHA1: c6d65f3624b50c7d505f30b23b578d63e79f6054
+SHA256: 227239d0d3df0f18fa56e1e79ffbbc62a4a2cc1b132464ed7710f3993f82324a
+SHA512: 70ad31fdb58bca32d9288a7d46b91511c7a5120560ab77c4a036393742346a1e1a928017f222e18a200d0803c04f8c0f4149cc95728adbc898025d903bafe27c
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-41+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-41+debug_iphoneos-arm64.deb
+Size: 4326
+MD5sum: cd380b2becdd9a1abc0ae604bb804447
+SHA1: 979bc82d11832c6f9658de747f875f65ded868ed
+SHA256: 13c25ee3eb5da924d4c2330fd750deca3e18d4a6f65e3341510c58778ca92a71
+SHA512: da9a32f7efef3b356a6d20d29679b92a1d06bcde226bbca79ac8c37b3352b8ef466f419c3431eea44d0b6cc2e4396aca59d55e2519c9e490bdb79b80f9db72cb
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/ so make sure that folder exists and CREATE THE FOLDER IF IT DOESN'T EXISTS OR ELSE THE TWEAK WON'T WORK
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-42+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-42+debug_iphoneos-arm64.deb
+Size: 4346
+MD5sum: 6975e715cef2bd92d904c7ecec8978c1
+SHA1: face7e3ba00d57dcf743c0925d7854d303076ee4
+SHA256: b1641a441cfcad46b0e2d4479270c57ea8b3e9b100b96d479163d91834e470f3
+SHA512: 9da067a596396105924e33675a3af4de37473e404eb74295525df9d761ac10a4aa3ceefe0d208cf413b5ea4eac1ada03749e446fec59ae071ef8427294c41609
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/ so make sure that folder exists and CREATE THE FOLDER IF IT DOESN'T EXISTS OR ELSE THE TWEAK WON'T WORK
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-44+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-44+debug_iphoneos-arm64.deb
+Size: 4250
+MD5sum: 7096412721f12d752571c6eb2bc59e73
+SHA1: 6d25b77e70276e459a21d3b125899de6099f7d59
+SHA256: 90ffb5e6727a9f312379fdfad7433aa17f1fcb0d03fe851e8977c2027f50e781
+SHA512: 2f0f40da9d4c4e16dea8ddb571fd1c938aa44d9b07fceb31db3251fa162ca335ea09ff54123523a9d29e8281d26e9552b003b93dc7fb44963940c9ab10086f51
+Description: super basic notification logger. writes files to /var/jb/var/Documents/notifications/ so make sure that folder exists and CREATE THE FOLDER IF IT DOESN'T EXIST OR ELSE THE TWEAK WON'T WORK
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-51+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-51+debug_iphoneos-arm64.deb
+Size: 4236
+MD5sum: d80bffbf8571a357922827d96fad8400
+SHA1: cdf86ad5ecf752c63c1b07f095adb11cfbf198bd
+SHA256: cdb06156c7dcf0779f93dcce60810f673b7f9baf1ed123b22f11c388ca9d6fe7
+SHA512: 501784597a92d2dfa1e549c5a55d72badda8da6da52eb7d946463002b0ebe0965cfbef743d051ad0134555e8c7742f5b81b836b950f4becd030fdbb00579b7b8
+Description: super basic notification logger. writes files to /var/jb/var/mobile/Documents/notifications/
+Name: Notification Logger
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 65
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 73440
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_65_iphoneos-arm.deb
+Size: 71396166
+MD5sum: 944772c73b863a6e987658e103af3241
+SHA1: 83dcbb726b71fb7d2d03bdf07ac5f7796dd1bec1
+SHA256: 430a2e54935bdbb2e7a6d86a95e4d2d12df421d71d2f8d2189eab74a75aa79b4
+SHA512: 0b0b5bd38220fcb39d8a93357a312c8c8e88203f73e809dc46efb6615c540f852886b8d432dac25bf69286b07adce75a39aca1d0d5f9a101d42f207ba7e3cd0c
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 65
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 73440
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_65_iphoneos-arm64.deb
+Size: 71396334
+MD5sum: 6e5061efd288c68446fa8c44ed87476b
+SHA1: 16960ac4570556f2b41dc0adf7d186580d53888b
+SHA256: 8f5d4e28c3e759d71812d080fd85cba70fbc5e19e9b27f6859cfa592cadc06cd
+SHA512: 274a49d15aa2b45e8332eac6294a04c22a162f4e3b2ed7f731a6aed3f7be32f4cd4618d677ab2a54b009bc44bc08da4f20b291b4611d66f04528ed6691f00038
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 66
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74356
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_66_iphoneos-arm.deb
+Size: 72309776
+MD5sum: e6832ebaa7ff2b3c769ba0f142e7e99c
+SHA1: 17b24e208ad7fe1028e6dc580f341f22f280a341
+SHA256: ae249bcc9f16d44cba6f33ea830f675abe37d522e493dbf8d8d52bb97b453686
+SHA512: 707b3fd36b506c7a7f355f4f73fbc7b0f511c726b67c00b7e9423b7ac48f4777871e5e966828b2cbe57f85c834058a8f67ceebaa2fb49be5bd74ca087bb91552
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 66
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74356
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_66_iphoneos-arm64.deb
+Size: 72310172
+MD5sum: abd4425c4b8a08f9eea6569fd5108a61
+SHA1: 3853a52067cab6251113e9808a0f48aa0458128c
+SHA256: 5a26a4399046a10add96b294fc2f227d1ae1a62943f09f81ea8d4121941b9441
+SHA512: 78ca2fac5cdc74d9606e257cfd6919c83e5b4238f8532576be9166e7638179edebc99f49236115b4571fda84c86439156b70399f09e2f048e056bc0b8bdd7b68
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 67
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74364
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_67_iphoneos-arm.deb
+Size: 72309930
+MD5sum: d1f2c6826fec1a659a87967b048e46ea
+SHA1: bf4b1296a8f1e35164cbd6e8d2fd3d3c3243dff6
+SHA256: 444abce3aa99207b30a15ae7317aae79e5634a87e88585a307fa0de5b156adf6
+SHA512: b3cb8a3c1968467ebde4a8eecca50e0d7b9341050484b924166b461bd99de2ec90dacdb0c357cc21c492b52a1ff404cef996adc687cf8b134ca9231a30cac33a
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 67
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74364
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_67_iphoneos-arm64.deb
+Size: 72310182
+MD5sum: 96e267ebe3c839e6a2b29ea3de265d4f
+SHA1: 3270836e99d0f140eac61f26fcb6be8c2f34e4c3
+SHA256: d8353119c821c3a6875e99110fd92f10b1322afd400e17a58e29a6450459998f
+SHA512: 69ef2d5e3feeb26e25aa9eef3e5263580b47f1f276ae55c7da637b838745c99a0f2f2a51be26f555b3291ff32809c199113169a9e24f034e7e394ddefd89b651
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons made on the hour, every hour! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 68
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74564
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_68_iphoneos-arm.deb
+Size: 72510878
+MD5sum: 04b8117a5f8b21db7948322dda48cb19
+SHA1: a50c63da4a61249a2e4b94e60a715c266dfaaedb
+SHA256: e38715704473514dd53eae80340087c576059b0354b7975404443ccbaa4311a6
+SHA512: 5ac4709674fe38454bda0c00b6a737b3dcdbd1c7c0c6861f06ed2b98941ba178517fa5eb18c8b7460d6891a2aee65fe99398caa8f8d0f49dd37c0c50dc1045b8
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 68
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74560
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_68_iphoneos-arm64.deb
+Size: 72511090
+MD5sum: 39f3545b675c8bcb9b2b07e156ad2799
+SHA1: c9fdf01641af177fa74102d2da5e744cfcdfea3c
+SHA256: 9238d7f28412c88c36364db172ee6cb13e837dc20b290345667846096b06c17d
+SHA512: 4ae9660847b0d4abd47b91a6c4496985e5e853b8acded2e72984c7410b5ee86cc98c4c41552d8c1e50aa69f3d3333abd2afb3f08a52e7e33fd5139ba195288de
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 69
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74560
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_69_iphoneos-arm.deb
+Size: 72510372
+MD5sum: 1469cf4b41610abe214705fa417fe670
+SHA1: 78e0b26810cb96f344c0e3f3bffae9f90ba5dc19
+SHA256: 2d5abbbbaf91c92fa6780ec4045f33169cacc2ea6a17ca5fb340fa0308dcb4ee
+SHA512: b3d96c499d5cde88c1f408db6e68cb123b01a26ac8e227b3abef8461473648c34c9de4ca33f412e6cf887a5043a37dd28c847f11a88b464dd46d01bd87212425
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 69
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74560
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_69_iphoneos-arm64.deb
+Size: 72510794
+MD5sum: 4f39b650c57b7b2d778b2794dc6c777f
+SHA1: 13f4559dda9c0013469dd4570b971aa102774b17
+SHA256: 9d8901698cc30d7cad6c9203e08027c2427b2d2f9f516a080b3dce0bae629ead
+SHA512: 44fd897d7145fa1fa868ff422fced0ca9e5302217878790c096e33a55e229fde4adfaa918929d3bed1803b20e043bca3254110bbb295d7bf392d0f0e422db7ca
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm
+Version: 70
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74564
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_70_iphoneos-arm.deb
+Size: 72510756
+MD5sum: 3becd850b8a59e2d1ff3474348cd5109
+SHA1: d416788231bd1b3cdfacd13bdd42e1d8ddcf8031
+SHA256: 4f618d493baca1174154b0c17c4620f52c1000002df119528368e683ca85a7b7
+SHA512: 4a5a331893c1f7a1a4a9336c9cbf951a989b66960ed7a6148ad9e17787b7c50637a53d6b17789304eaa3c3a832579a708c19b52c8979f8202cc25f51a01f1530
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: cfd.frcoal.theme
+Architecture: iphoneos-arm64
+Version: 70
+Section: Themes
+Maintainer: frcoal
+Installed-Size: 74564
+Depends: com.spark.snowboard
+Filename: ./pool/cfd.frcoal.theme_70_iphoneos-arm64.deb
+Size: 72510422
+MD5sum: 13422fdece2e3edd9e2edb557ef16522
+SHA1: a8dc0f25eda55ed1135d9ddb1f12082c392c8ae0
+SHA256: 79a5443b6a67d46cc1db5ea3ac39edbfc2b7eb54ab67a5ad9aaa7bcdcab1eed1
+SHA512: c38a90beb6622549a6cded6964e94cc8c605cea4da5cf0fc941b2e0beb0906588964309aabe961ad9a01bb30bb6be341c617a325d270723ae8bdb8c7b930b64d
+Description: The definitive fr theme. Now taking YOUR suggestions! New icons in only 10 minutes! Suggest an app bundle ID at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/frtheme.php for a super rapid update. (Try it, it's fun!)
+Name: frcoal Theme
+Author: frcoal
+
+Package: com.brend0n.ccnoisecontrol
+Architecture: iphoneos-arm64
+Version: 0.0.4-rootless-2+debug
+Installed-Size: 224
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./pool/com.brend0n.ccnoisecontrol_0.0.4-rootless-2+debug_iphoneos-arm64.deb
+Size: 13950
+MD5sum: 716ff51e27c485610d83f73d46c34830
+SHA1: 3a36ec8ad71f0024a07c4af567203fc358992c71
+SHA256: 06a96dd765b57ba017d3a16a30f70dccc5184fd93a67bdcee516205a4a778081
+SHA512: ebbdd29e2d7cee54690124fddd7fa6c31b273e7d1e8cb8f97fcd526ec4b0fcb6180e83c22eb156c9f782b9639a8c75c53bad820bf439b1903213ba179b563979
+Description: A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ 0.0.4: Fix glyph color not updated when no device connected. Properly update status when not caused by Module itself.
+ 0.0.3: Add NC/Off Module. Add transition animation. Add Settings Icon.
+ 0.0.2: Fix icon on iOS 13
+Name: CCNoiseControl
+MIT License
+Copyright (c) 2021 brendonjkding
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+ Maintainer: Brend0n <brendonjkding@126.com> Author: Brend0n
+<brendonjkding@126.com> Section: Control Center (Modules)
+
+Package: com.brend0n.ccnoisecontrol
+Architecture: iphoneos-arm64
+Version: 0.0.4-rootless-3+debug
+Installed-Size: 224
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./pool/com.brend0n.ccnoisecontrol_0.0.4-rootless-3+debug_iphoneos-arm64.deb
+Size: 13942
+MD5sum: c62f832b4ac17961b61c1cdfb78905f4
+SHA1: d6b8a8ece53c1cee43f712cdbf01caa50e7a9527
+SHA256: 8b09548edb7502050c8d81001a91515242ed62ba3ed5e925496eac6d10b2329b
+SHA512: cb43dd2cacc453e651d5d649ae99a036a981bfc98f35b0916f69f40a39e81b3e3a93cb9a511e367bee4e729a0cfde6291dd52373e8c502a13423e5e19b573766
+Description: A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ 0.0.4: Fix glyph color not updated when no device connected. Properly update status when not caused by Module itself.
+ 0.0.3: Add NC/Off Module. Add transition animation. Add Settings Icon.
+ 0.0.2: Fix icon on iOS 13
+ MIT License Copyright (c) 2021 brendonjkding Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ Maintainer: Brend0n <brendonjkding@126.com> Author: Brend0n
+Name: CCNoiseControl
+<brendonjkding@126.com> Section: Control Center (Modules)
+
+Package: com.brend0n.ccnoisecontrol
+Architecture: iphoneos-arm64
+Version: 0.0.4-rootless-4+debug
+Section: Control Center (Modules)
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 224
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./pool/com.brend0n.ccnoisecontrol_0.0.4-rootless-4+debug_iphoneos-arm64.deb
+Size: 13936
+MD5sum: 23fe9892f5d4970559a9573c21b605ea
+SHA1: fd388c97c1c130ba28fb1632da174f3df78c8900
+SHA256: 48e28f0c79ce075bcea485f8a5fc9f13b1a0479fff85a9c540ba743084e67e38
+SHA512: 782388909ae3845c566e441b88be83c157185e5306c512f98d0630e2be804a6b763fdaf4b86145c72bfc92c1ea57083a36915d2fa8356cf7aed3d29f45eb153b
+Description: A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ 0.0.4: Fix glyph color not updated when no device connected. Properly update status when not caused by Module itself.
+ 0.0.3: Add NC/Off Module. Add transition animation. Add Settings Icon.
+ 0.0.2: Fix icon on iOS 13
+ MIT License Copyright (c) 2021 brendonjkding Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: CCNoiseControl
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.hearse.slowmo
+Architecture: iphoneos-arm64
+Version: 1.1-rootless-1+debug
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./pool/com.hearse.slowmo_1.1-rootless-1+debug_iphoneos-arm64.deb
+Size: 19420
+MD5sum: 77869323eb3c4aed51bfb054f920202b
+SHA1: 6fc1db7e61091cf68b5c9164cb391f5fd46e8bc5
+SHA256: 156659b15175a63c2d4685379a35c79cc99e2ef19e690c43c411e8ff4ca9ec63
+SHA512: 73b263e77e942bebb087e416d7ec3914b3b07cd824ecb7c5bebb8e9c9c5d0c2bae846e9b877cabc541a3a34e8b410e082f828385550c876e709475ee90e91975
+Description: Slow Motion functionality for the Photos App. MIT License Copyright (c) 2022 Hearse Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: SlowMo
+Author: Hearse
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hydrate.fishylibrary_1.0.1_iphoneos-arm64.deb
+Size: 107436
+MD5sum: 0de4aa2e1c8e755a2a1f0313d7fd35d8
+SHA1: ea680fd676b03c807e5bf43ddd5f24078f3e0caf
+SHA256: b38e654f75a5258b7d3abc1186ec5b6db57bac8d6a8447128c13095d0c2279ad
+SHA512: 2b3dbcea7df672fc30b9b8151f9e629b3abeb84ac152cd5b13f5ab248ff934f112068327cd25fadc76d639ecfcd63066cb92dea3a954630b7a5f981ece08a42f
+Description: Lets get fishy
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.4.9
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hydrate.fishylibrary_1.4.9_iphoneos-arm64.deb
+Size: 107502
+MD5sum: 90c746e03678dc0b9a18569c2b2b6437
+SHA1: 214a5e299d39289a562fc34dbed2dba1754775b9
+SHA256: a05e7019463f6a461590c45d9ac1e535d93b201d37c68c1deb18a73ac8a63f80
+SHA512: 1e035daccee50d82639fbb8d607d2cb71dfc102abbe1d0b89d7fd237f76f66eecdb8aac9b02d3c6c3399d17bb9c9b054fc1fed605f84f4fd5363c5567ee92095
+Description: Lets get fishy
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hydrate.fishylibrary_1.5.0_iphoneos-arm64.deb
+Size: 107578
+MD5sum: cd72b561f2008538f4f02cb5ab6ee002
+SHA1: 134335c6029e54ec5fcf9148193804ee2b8107e0
+SHA256: 60f39a98415cc5653e7ab1cd5136bde767c487d3afa3bfbfe6526ffa20ecb49e
+SHA512: 36a22b8ecbd28a356d82eb62b9dc9dc280ce0720397e5f2a7de9539bf60c64e088464acb2cf731cd871367c440eae7ea3e179e2ffb7eea0bf73b4ebc4909a499
+Description: Lets get fishy. This tweak replaces your app library with some feesh.
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.hydrate.fishylibrary_1.5.1_iphoneos-arm64.deb
+Size: 107540
+MD5sum: 91cd3c02a706f730c7a1e4f1bef8023d
+SHA1: c7a216ed41970820dc15fa8c5ea8a55ed78af42f
+SHA256: d0ac85fa055f2b026a0170ce1d00bc71cd0f92ca517931fdeddc5faf85a40764
+SHA512: 931c4098c24a600e88d00b36513144bb111d1203186b0074b03797439805625870dd64fb859e4d5da53528e26f878d0455e82473812d70bd19d1bd453f8a0ce9
+Description: Lets get fishy. This tweak replaces your app library with some feesh.
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.hydrate.fishylibrary
+Architecture: iphoneos-arm64
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Hydrate
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./pool/com.hydrate.fishylibrary_1.5.2_iphoneos-arm64.deb
+Size: 107542
+MD5sum: ecb3458abf093aa058f6e3cef06269c6
+SHA1: c02148d90c1fcaf1bb3926262046285bc12fd769
+SHA256: c8f724e58f1257c117aede5ccde6a66cc12a3ed2b1e0a905329af590c11a0fc1
+SHA512: a965e506027bc2161befbf059975be66c5451cfedfc228ea5f2e705673b0314e4944d99d868bc6feafbd731b26382ac5734e74d3812b04a7629c9f9b89f84dd3
+Description: Lets get fishy. This tweak replaces your app library with some feesh.
+Name: FishyLibrary
+Author: Hydrate
+
+Package: com.mtac.uptimealt
+Architecture: iphoneos-arm64
+Version: 1.0.0-rootless
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./pool/com.mtac.uptimealt_1.0.0-rootless_iphoneos-arm64.deb
+Size: 24252
+MD5sum: 2ebfa49126d18ce69cc94ca15f6ee807
+SHA1: 58bd7ba966e8e2c101e72c540a7b067a679e9d11
+SHA256: 2a9438f8ddc6de357126033813cca7b97953176f66863944dce3a0add457cb68
+SHA512: c16bdb5eb6c21926bb5a3f14f748f20ac30f7ddf87d1d9d8989a8ece3441fde22b757ead0b9ad488081908f4c4645991dc923030af50ceeb9e6f6ef72711ed85
+Description: Control Center module to view time since boot. MIT License Copyright (c) 2022 D.F. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: Uptime
+Author: MTAC
+
+Package: com.nathan.homehider
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/com.nathan.homehider_0.0.1_iphoneos-arm64.deb
+Size: 2576
+MD5sum: af88daa5943b86ebd6c5cd2051b80d4f
+SHA1: 2434a2522630cfe99eae4b81aca15ff7fb2ad8f7
+SHA256: 46ea5de0eec86014521d4d5f52d251032dcf0bfb855ce7b8ff1729753cb1dc89
+SHA512: 056bba33707fe280a417df71639f4a7bec5e9e7b78e6a19ac16dc3ce2b23818ff429496e980541f77c8ed32557b22d822396c96d082d8b0c92e9761d6e8740b0
+Description: An awesome MobileSubstrate tweak!
+Name: HomeHider
+Author: Nathan Senter
+
+Package: com.tako3s.printemps
+Architecture: iphoneos-arm64
+Version: 1.1.0+1-rootless
+Section: Tweaks
+Maintainer: tako3s <fubdonstrk@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./pool/com.tako3s.printemps_1.1.0+1-rootless_iphoneos-arm64.deb
+Size: 21722
+MD5sum: 18d7145fa67f798ef4410db0dd4b1be7
+SHA1: eb7f9d05e4181ead03b21bacc21cbd66687cd893
+SHA256: 7379e86768c549b3315ad9d2a9aa345b5c20755d50f179759b89f5f859917295
+SHA512: c47b405bcc550041a4d16cb3e7f06ef45b73f28997d50c0e783a14ae0f862243dd5860d26b3de4815e1bbe6172f30f57f31153278572c848b1d5d7a0dab442d6
+Description: Very small music widget\n\nMIT License Copyright (c) 2021 P2KDev Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. This is the original copy right of the icon: The MIT License (MIT) Copyright (c) 2013-2017 Cole Bemis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: Printemps
+Author: tako3s <fubdonstrk@gmail.com>
+
+Package: com.tako3s.printemps
+Architecture: iphoneos-arm64
+Version: 1.1.0-rootless
+Section: Tweaks
+Maintainer: tako3s <fubdonstrk@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, firmware (>= 14.2)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./pool/com.tako3s.printemps_1.1.0-rootless_iphoneos-arm64.deb
+Size: 21750
+MD5sum: f0abb7b2518191b2e6f9bff23354a34a
+SHA1: aa6ec186c25db9b63e7f9e381e00b0302555be46
+SHA256: 63d9360a365ace37c48d7fe62c1f93ca29095571457b6d228f69fc00d98fecdd
+SHA512: 2d39d49102ad7e460f2dbf5d884993130bdf250907cc7a834e66c223667755a734b32b77168e7a652d69ac5fab9a19f87e42a9a1b5fff4ffae7a70b23c26291d
+Description: Very small music widget\n\nMIT License Copyright (c) 2021 P2KDev Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. This is the original copy right of the icon: The MIT License (MIT) Copyright (c) 2013-2017 Cole Bemis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Name: Printemps
+Author: tako3s <fubdonstrk@gmail.com>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-1+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-1+debug_iphoneos-arm64.deb
+Size: 35994
+MD5sum: 5fde173639e5666424800498e20c890d
+SHA1: 884e9b9cc6352ece10762058b608080d3ec658b3
+SHA256: 65ffa9b9514f1a1cee41fce502229b431fc4108befef90bff091a7e6041d491c
+SHA512: 04acbd63dfd0007aac3fceb8c8ddad21c8787e1f8e34023357d3fc7857432b32e827fcd35dcee09d10f79212ba73a03da02d22fb94f7b9598828a19288915b40
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-2+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko, dev.traurige.eneko
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-2+debug_iphoneos-arm64.deb
+Size: 36200
+MD5sum: a2ab50c5fa8c21c94e44e3a95df45b19
+SHA1: e9f177be68df9c44f8a0daf91ded2caeed0f046a
+SHA256: b62dd882b00b5570aba4f7c036f53f9ed50e825915efcdb494a6c42ec7c25937
+SHA512: 6427c53f72aa810013da957d6960e6a9f86e2258bc41955d530be108d489f560c1d207363355542db1a4d6b8a1a67d3c469ba3c366268dc0c11f7cfd0d639533
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-3+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-3+debug_iphoneos-arm64.deb
+Size: 36180
+MD5sum: f127ba8043ded98c9b683419ac611a8e
+SHA1: cc8952266a765f52aff81f8b47c2969fe0ae2590
+SHA256: c79e026e44aa090dc944f8cbea97b54f51f770e02e0e5e32f6a3ede2c101694a
+SHA512: 6e971bd1c0d3c41d236ef9b9d85e8fbc2ba5685e5aabf41e54497d1a9b219afd8008708113b8bc6b7fe22abce55260fa040c7f9b38daca2d240195a1b17ec1f7
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-4+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-4+debug_iphoneos-arm64.deb
+Size: 36196
+MD5sum: dc672032fe4425acd9b45c298c6e43f7
+SHA1: f73800b4459e4eb6391344618c0fb37d4a17435d
+SHA256: afcd2eec65b17ef158c023fbcf06d83038bb46928cd83390b499574c548f1743
+SHA512: 53d3a5d15e4faec34a01378f4cdb7cac4a90e8294cf24dae3c1af9797fc018d9023b7f19f703b281cef3f5319da39c95515b026e2291803d6f3b731150a77347
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-5+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-5+debug_iphoneos-arm64.deb
+Size: 36268
+MD5sum: cd11800ada0cf5d65ee3b76dbfb9c664
+SHA1: 2a7302c3d416cb784ac8e9ab5e8066a9d103340d
+SHA256: 69ef05fa411d748854a30e69d8a85852c84cb159f744e32a969d18520d23e197
+SHA512: c3b48ea31fd01b2c65cd6e5df37910ff0133903589b2d3772d27b5664be7da149dbd168121354cf7757c049f1c06874602152c97f1bfdcc4f5d61689c75376da
+Description: IF YOU HAVE VOICECHANGER XS TWEAK DISABLE ITS INJECTION INTO SPRINGBOARD OR ELSE THIS TWEAK WILL NOT WORK!! Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-6+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-6+debug_iphoneos-arm64.deb
+Size: 36198
+MD5sum: e3fe7dd7f1e26dca793f8e49c7b8a1b0
+SHA1: d0c4ff43213dde10b55b1ddbe2ad6b21150ee331
+SHA256: d45ccb5393daabb4f42a915dedebbc2110e6bb3baf9c4e184866922c93fa0263
+SHA512: b3fc4fc4bed2a0825c3cd9f0bb1e7e450915601678a080f794702b1b62b039dc43401f36783219c8703d0eb70435dfa7c9c317dcc7ba7e33ca07a9032c1b7ca2
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless-7+debug
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3)
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
+Filename: ./pool/dev.traurige.enekoalt_1.2-rootless-7+debug_iphoneos-arm64.deb
+Size: 36194
+MD5sum: 7c6658a12106cdba3ff890286edd01c1
+SHA1: f9a3ffc498fb740352682126ff8e42d5c0693a43
+SHA256: f52f03119f5e8c14f6f921ab7634e6815932e3b0981534c0bc0307f599739497
+SHA512: 9a87dbaac7fee65efbfef26af48db5641780146707526186a3a8b20e626266bcafb97f20dd26ebbfb3c00ed652223708e5e2e5668d7da57fded638af7d798d23
+Description: Video wallpapers for iOS. The original tweak has been modified to support rootless. This tweak is licensed under GPL-3; source code and full license text available at http://frcoal623vobrv5c5rqp4ct4qlispcvkyd3pxgluvuvqvgzl5vrnk2id.onion/sourcecodes/Eneko.7z  (GPL-3 compliance move).
+Name: Eneko
+Author: Traurige <hello@traurige.dev>
+
+Package: h.ryan.youtubereborn
+Architecture: iphoneos-arm
+Version: 4.1.2
+Section: Tweaks
+Maintainer: Lillie
+Installed-Size: 24784
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./pool/h.ryan.youtubereborn_4.1.2_iphoneos-arm.deb
+Size: 9021676
+MD5sum: 35a9cf4d481afc43af299d5e5e67c577
+SHA1: c0b62a6d7eb8405837ff9b068fe05e730b9c92cc
+SHA256: f34bf9ead7a618c9f7bb1500c933ccfac9873d453767e81e4988f8dc2f1c293a
+SHA512: 887610470614a93305ae6f13c9b436d966126a7c45d448eea2c045d24b97f09439f3eb9f71981a75e36c95ca79166e9435030c83f2fc2e34316eae21df701821
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
+
+Package: h.ryan.youtubereborn
+Architecture: iphoneos-arm64
+Version: 4.1.2
+Section: Tweaks
+Maintainer: Lillie
+Installed-Size: 24784
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./pool/h.ryan.youtubereborn_4.1.2_iphoneos-arm64.deb
+Size: 9024794
+MD5sum: 3bc796e0f025f8f6bcf03b555b9ecd05
+SHA1: 69a5c9ee315d4f87fc94e6be5b239c3d87b025d2
+SHA256: f5d6121502d0aedcc846eced7705ff436daa41cca2ec9d50b1b533bc9486b56a
+SHA512: d2cf01a0318722b9fbbfea9bff321c207b4c4085464560363898380e8458950d8b398f803d9a116caa0e367f2a89813f4dc707572cdaf3416f1fd319b415df9f
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
+
