@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
 Codename: ios
 Components: main
-Date: Mon, 18 Nov 2024 21:51:33 +0000
+Date: Mon, 18 Nov 2024 22:04:03 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
@@ -12,22 +12,22 @@ MD5Sum:
  ea54fb8d9c573f21351bed6a00d6e241            17205 Packages.bz2
  8d05ba2590e48fa0049644db19bd08c0            15956 Packages.xz
  b17e8db57f030f96662082bc3f0de194            16092 Packages.zst
- ae85c8782c80bf0d15ab4779c08b0b00              214 Release
+ b2bc3980aa7f14371f67363a09eb79d1              214 Release
 SHA1:
  d454521e3f03ae7cb19704431c64929750a70c67            70553 Packages
  14c39965fb2840f247c8ff915597d827df059e5d            17205 Packages.bz2
  ed31910c8a60eecd5645e4e505f35010b2d1494a            15956 Packages.xz
  34a3f31ad09fba926728b89f62f267840ae38063            16092 Packages.zst
- 0374d2449574bce7cdf8a37d28793d0dc06e5951              214 Release
+ a6c424b0fc74a5adbf1cddc1bdd6699163accc01              214 Release
 SHA256:
  1f53f323006fb3227d22b3c79216ad4427fd4dddc113f33a6d73564e88c898ce            70553 Packages
  d2669eab0b79ef7709383992459f2066da1e12c4473db8368d2814810013092e            17205 Packages.bz2
  16d59203c47e28ec03c1c14fffbdc695329ad63d5c50fbfcb9e7026c99f8f041            15956 Packages.xz
  94e05928af2544df0c5e476cd02177950dac35cba298a217c068d388c1bf9c57            16092 Packages.zst
- 526984aa298af3da15fecb1e5f2bad05e3a59ec475e1922bbb7fbdaf7cd6ed15              214 Release
+ 91f04c5fffe17f126b40643f53e0504de5b5e5e9c0364c7987f3bb4c20e232cb              214 Release
 SHA512:
  c97cf44a12bdd1113a7c9b4a924819aa3ba74b9aeb1947d54b6ed33029e39ccd1964d74f7c3fc7e7a0e268a9e9a99af456cf2646f6df17fafd63cba1ac801e49            70553 Packages
  d7db4abab7c76262cbd9395d2d3f4226dae1c3df80e93a078505957b097d17dd85190938d4bf1f0c708e9bd1eee4a2c3995a56d7bb78c0f6fc80623bce4d57a2            17205 Packages.bz2
  1108790719311c5fec1ff37b49a649db91377aa7a756a8df269dc6f26272c8348b364362914195197c071b5c75bbf6456e799e722fef0092772d60a0131fa997            15956 Packages.xz
  4b225605bf80c83b303744924d4c6e6889f3abae81be4bf8e4288400e5104e2b46e174dbbc2e9702993c43fcbf0185ec1c8ccf2a4cf103936c550d29ed73982d            16092 Packages.zst
- 1d945c183683752d94d4ddbabb77b2d8ed37cf5ad27a786909e8f9a16cdd0e5720e5d5bba163f77263bbeef0ae3d39acb2186e39b86cfac4d4a1fb74c701f411              214 Release
+ 810a94faee10da63bdcd975f2f043019fe97006dd0f2521f574d2e5b7344a799b6a1e10f306f146b4d6c20901155852b4095bf4bf764296a014b62280fc1110c              214 Release
