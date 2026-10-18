@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
 Codename: ios
 Components: main
-Date: Sun, 18 Oct 2026 10:50:12 +0000
+Date: Sun, 18 Oct 2026 10:50:38 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
 Suite: stable
 Version: 1.0
 MD5Sum:
- 24eb2e90e9b98cb6635075b212a403f7            63583 Packages
- caea80da19e867a3fa6b15ede7f3ddd8            16042 Packages.bz2
- 4836c3fa79e2398bb74cdf7e4831b94d            14864 Packages.xz
- e26937585c65f7f337c82730ad1c2da1            15077 Packages.zst
- 5914d0cfe910adc185bc5dba84421323              214 Release
+ 9cf94638049161fedadbd961aee75f35            63583 Packages
+ b65f02b28800d78fe72f508d6b143a09            16038 Packages.bz2
+ 0b56b3e485e3e7ba0e1f2ed72a4536e4            14852 Packages.xz
+ 39f75927fcbc51b6070d4a756d8a0b51            15068 Packages.zst
+ b6adc8fae5678e56031e221f5dae3ccd              214 Release
 SHA1:
- c7226808d8f4060b004c047db659e49a694aff77            63583 Packages
- f3ecbe924f72bfa95dba43c2569f6cb598325021            16042 Packages.bz2
- 1c992584368677fd141edaca2fe7d0a62ef5e4f3            14864 Packages.xz
- 10f7981aebe7010c3d3d4ebbd5da75feef6df23e            15077 Packages.zst
- b218ab49e0d6af91ee5004b96d27f4b6ae052b4f              214 Release
+ b31cf691592d781d1e6d02c5dc0320fa35c0d619            63583 Packages
+ e35afcdbc876a41e7429d572a6540a5a8a3169ad            16038 Packages.bz2
+ e426e4bd8386044a2ebcf96101757536c4956129            14852 Packages.xz
+ b5b282f632d3113f6d2651d8b6526280b3bc4ae8            15068 Packages.zst
+ 448ef18c42620c714715518f18a264d193e9f254              214 Release
 SHA256:
- 7ea9d0bbfeebe5a668e825d754cf2faac5bd6adbb693fcd86ef30150ae4994be            63583 Packages
- 595a74f43813e4d31d7e745bd8dfb520d101e66c8b4bb3e8f6398e4c6e059d29            16042 Packages.bz2
- fc684aa3df8f9d087efa0dd50ae979ea60a8beb75d614c5f50437b96fcdfc1de            14864 Packages.xz
- 966d13df149442a4547498ba36b3555c6895ab21ca6c3d9e4bd473a03d95d9f1            15077 Packages.zst
- 6181d6ffc2c6b735df60c237dd782084e8a3526dbdb33af28ba69752c85528bd              214 Release
+ 4d5b49d2bcda8a04d2855f3ee43b333daf64cb72bd8ecd0d9ea3e7396fb03ddf            63583 Packages
+ e77a6cac2d0aff0a35adc2ac39398e1ff62ca6f6fc0c35dfbeed19c5a2d32bba            16038 Packages.bz2
+ c3980670ec602c267f8b5bad16f483aaf3401b9d1f27b6a20b85b5d6d851984a            14852 Packages.xz
+ 9aaefcd425957b5ea2c6e65114cc2412a399bac55abaccc00e310e848d2f9d72            15068 Packages.zst
+ 574a6353439667f35e2b3df70823358ba494c655d5fed3690e915595df734392              214 Release
 SHA512:
- 8da9ce50984f8e87c074acd94483a8bdb34bd6eb5465edc795d498fc76854f1180850d11f4ce9aa92429138ac13c9f5cfff65c291a9093e872cf2bdc2a249407            63583 Packages
- 4b90eef3050c8cf5b28e18adc4065623308ce067a2032da06e129cdd8d07b9f43bc4f441bfafb3c037cbe8066f30f1743ff78dac90b4ca3522efc8c76a2d41fe            16042 Packages.bz2
- 204f25eb88cd43dd3261c5fef125c9874ead1bc3262f8950fdbcbb90c32f8865e76f108f5311f32d9a0ae1678c5c300b42080f1e566d366b2549066ffdc70be0            14864 Packages.xz
- 946f503a322cc911a6e59dbad44457e0b46bd033f9b04e3f9d17444581b89743906f5fcbfdef461bcf4472539785d35aad6cf84078e5687c73e127b08c6474f7            15077 Packages.zst
- 5f851ffbb080a84268b5515b150d643196d967afb1455ff18f689ba685c32e851c72de0f8d8ec29840206f901f59ed706dc097d7609768f1bfcebb2faffbefe4              214 Release
+ ab576fc4da4a765afdddc053099cd517c9b3a18ea6ed011f4a768b3f7a6c94432377ae5a42371f1c3e8d273818f574d87564faacf300c485f9ce0286e608a1ee            63583 Packages
+ ec7dda041ddf8fb56852537e1775d2f6f481335d62a5cf945ee7bab6ca332383bb6ce55a7ad078b894e432570aed80fddeb886c640c13181e3683003268a1f15            16038 Packages.bz2
+ a7e11fea4f532b427479b7f5bf874a694833cdd072657e75bdef6f23e6d61d173c3f639100fb171a73a5970219aa22146476398f555b2c8a1bafe9637425c3b6            14852 Packages.xz
+ 09de99cfed562a9700ebbfecad31f672c4504fddb31ed871202100fd6b72ce616b56d290c3833146a31d7c68c986468cda79ad7add9dbfff0215956e54183e1b            15068 Packages.zst
+ d6a415d9b6a0135629ad1507b9c9b1a8faabfd2e3a27e55beec8b232c3c3d6dbefff20fe2c6067ce60d4973a92fb14c377fd424a4d1bd54e8b888c14115421ff              214 Release
