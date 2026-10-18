@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
 Codename: ios
 Components: main
-Date: Sun, 18 Oct 2026 10:56:53 +0000
+Date: Sun, 18 Oct 2026 10:57:28 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
@@ -12,22 +12,22 @@ MD5Sum:
  b65f02b28800d78fe72f508d6b143a09            16038 Packages.bz2
  0b56b3e485e3e7ba0e1f2ed72a4536e4            14852 Packages.xz
  39f75927fcbc51b6070d4a756d8a0b51            15068 Packages.zst
- 60422706bd8d626c6d673fd40f4500fa              214 Release
+ ad9678012bcfd0882a5f5726a6e1c115              214 Release
 SHA1:
  b31cf691592d781d1e6d02c5dc0320fa35c0d619            63583 Packages
  e35afcdbc876a41e7429d572a6540a5a8a3169ad            16038 Packages.bz2
  e426e4bd8386044a2ebcf96101757536c4956129            14852 Packages.xz
  b5b282f632d3113f6d2651d8b6526280b3bc4ae8            15068 Packages.zst
- 91d4f50fb61ea6ffa42ee412f4045aea6df7e2f4              214 Release
+ a72638ac52cf9b647324075f101f6fa6c027b40a              214 Release
 SHA256:
  4d5b49d2bcda8a04d2855f3ee43b333daf64cb72bd8ecd0d9ea3e7396fb03ddf            63583 Packages
  e77a6cac2d0aff0a35adc2ac39398e1ff62ca6f6fc0c35dfbeed19c5a2d32bba            16038 Packages.bz2
  c3980670ec602c267f8b5bad16f483aaf3401b9d1f27b6a20b85b5d6d851984a            14852 Packages.xz
  9aaefcd425957b5ea2c6e65114cc2412a399bac55abaccc00e310e848d2f9d72            15068 Packages.zst
- 7e32377f6f95df8f8d54cbbe82f336deeaee4ee80cb6a3d06ce5e69572163e7c              214 Release
+ 82097b6bbb8ede68d623e5b392ed5683e079998cb24a8ff794f285711f8adeec              214 Release
 SHA512:
  ab576fc4da4a765afdddc053099cd517c9b3a18ea6ed011f4a768b3f7a6c94432377ae5a42371f1c3e8d273818f574d87564faacf300c485f9ce0286e608a1ee            63583 Packages
  ec7dda041ddf8fb56852537e1775d2f6f481335d62a5cf945ee7bab6ca332383bb6ce55a7ad078b894e432570aed80fddeb886c640c13181e3683003268a1f15            16038 Packages.bz2
  a7e11fea4f532b427479b7f5bf874a694833cdd072657e75bdef6f23e6d61d173c3f639100fb171a73a5970219aa22146476398f555b2c8a1bafe9637425c3b6            14852 Packages.xz
  09de99cfed562a9700ebbfecad31f672c4504fddb31ed871202100fd6b72ce616b56d290c3833146a31d7c68c986468cda79ad7add9dbfff0215956e54183e1b            15068 Packages.zst
- eec8e292c5a831aa2afca06f98e397a4f1fc5bc9dec4e6142a92345a4796034086909c50a5545d1d5acb3f28e53bb2f6e780b5abd194a7d5b63bb5de2af01b3a              214 Release
+ 741cc1143c7341e325097dc3d253280d24696a6f7c218e2047778e9ee0cdabfd29137d67ec7ac48a578cd2fe9e2861b40a8e2c9db3fe74ada156abd51032fab4              214 Release

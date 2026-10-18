@@ -39,7 +39,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "it's right [here](https://github.com/frcoal-repo/niche-eevee-spyware)\nactually i'm not sure if the links are clicky click, this is my first time on a sileo depiction\nhttps://github.com/frcoal-repo/niche-eevee-spyware"
+          "markdown": "[https://github.com/frcoal-repo/niche-eevee-spyware](https://github.com/frcoal-repo/niche-eevee-spyware)"
         
         },
         {
