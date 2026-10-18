@@ -11,6 +11,11 @@
           "title": "Twitter Notification Forwarder"
         },
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "#RIGHT NOW THIS GARBAGE TWEAK might be watchdogging MY IPHONE 11 IOS 26 idk why yet i'm not completely sure need to confirm"
+        
+        },
+        {
           "class": "DepictionImageView",
           "URL": "https://frcoal.cfd/images/turn_this_into_this.png",
           "width": 500,
