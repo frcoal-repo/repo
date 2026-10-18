@@ -813,6 +813,23 @@ Description: super basic notification logger. writes files to /var/jb/var/mobile
 Name: Notification Logger
 Author: frcoal
 
+Package: cfd.frcoal.notification-test
+Architecture: iphoneos-arm64
+Version: 0.0.1-52+debug
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/cfd.frcoal.notification-test_0.0.1-52+debug_iphoneos-arm64.deb
+Size: 4420
+MD5sum: af5c1ea897841bae61858e577011d0c8
+SHA1: 64353093f92749eb79a445cd9e48ddc0c2d0f3c6
+SHA256: 62c7f8177829fd0eff6f21fcc35f79291986e5318cf5544fe8eb5660d61662cb
+SHA512: e55ee9fc5777f7e34e6f7ee5ae45f494a90dab2ceef32b2df98516459c6d299050f50c4f711a76875167907a72ab19f560d3b0cf48944f17f6564eaa73f6fe88
+Description: super basic notification logger. writes files to /var/jb/var/mobile/Documents/notifications/
+Name: Notification Logger
+Author: frcoal
+
 Package: cfd.frcoal.theme
 Architecture: iphoneos-arm
 Version: 70
