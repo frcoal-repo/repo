@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
 Codename: ios
 Components: main
-Date: Sun, 18 Oct 2026 10:12:12 +0000
+Date: Sun, 18 Oct 2026 10:14:10 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
@@ -12,22 +12,22 @@ MD5Sum:
  caea80da19e867a3fa6b15ede7f3ddd8            16042 Packages.bz2
  4836c3fa79e2398bb74cdf7e4831b94d            14864 Packages.xz
  e26937585c65f7f337c82730ad1c2da1            15077 Packages.zst
- 1dbb706f222c1fc811eeab4268977868              214 Release
+ b8f710d4a04057e589af56ec65c9ae00              214 Release
 SHA1:
  c7226808d8f4060b004c047db659e49a694aff77            63583 Packages
  f3ecbe924f72bfa95dba43c2569f6cb598325021            16042 Packages.bz2
  1c992584368677fd141edaca2fe7d0a62ef5e4f3            14864 Packages.xz
  10f7981aebe7010c3d3d4ebbd5da75feef6df23e            15077 Packages.zst
- be75f3ea4cea183d4bc92435a1ecefea8f02730e              214 Release
+ ade5966e73fe25d73ef7467914e2b51da4a3ba6d              214 Release
 SHA256:
  7ea9d0bbfeebe5a668e825d754cf2faac5bd6adbb693fcd86ef30150ae4994be            63583 Packages
  595a74f43813e4d31d7e745bd8dfb520d101e66c8b4bb3e8f6398e4c6e059d29            16042 Packages.bz2
  fc684aa3df8f9d087efa0dd50ae979ea60a8beb75d614c5f50437b96fcdfc1de            14864 Packages.xz
  966d13df149442a4547498ba36b3555c6895ab21ca6c3d9e4bd473a03d95d9f1            15077 Packages.zst
- 1c1172bdbceb47b5de79fe8dad8cf0cf2c0459e29c9035cba9fb61d0eefe36b5              214 Release
+ 51f12b641622bfeff796e80eae5cc3bb8078ea4627e2ba75f31d9f374d2f90e1              214 Release
 SHA512:
  8da9ce50984f8e87c074acd94483a8bdb34bd6eb5465edc795d498fc76854f1180850d11f4ce9aa92429138ac13c9f5cfff65c291a9093e872cf2bdc2a249407            63583 Packages
  4b90eef3050c8cf5b28e18adc4065623308ce067a2032da06e129cdd8d07b9f43bc4f441bfafb3c037cbe8066f30f1743ff78dac90b4ca3522efc8c76a2d41fe            16042 Packages.bz2
  204f25eb88cd43dd3261c5fef125c9874ead1bc3262f8950fdbcbb90c32f8865e76f108f5311f32d9a0ae1678c5c300b42080f1e566d366b2549066ffdc70be0            14864 Packages.xz
  946f503a322cc911a6e59dbad44457e0b46bd033f9b04e3f9d17444581b89743906f5fcbfdef461bcf4472539785d35aad6cf84078e5687c73e127b08c6474f7            15077 Packages.zst
- 272afbabffa81de5737cc27bc31c41e46547b7e51fac04f61c0127706e4b3624d53d8561be4470f837d6568ba5971484a5dab4ea201748a5f099420c893390be              214 Release
+ 2825e139e99065424e714feccb6d07082902ce5ebf7a5bf2d915404520e620d967b5044110850f8e6e8132f36a5930059f55858ed18fe25b662d17cdffd19b80              214 Release
