@@ -18,8 +18,12 @@
           "cornerRadius": 0
         },
         {
+          "class": "DepictionHeaderView",
+          "markdown": " "
+        },
+        {
           "class": "DepictionMarkdownView",
-          "title": "This tweak Immediately posts ALL of your Twitter notifications to a Discord webhook as they come in!!!!!!!! (Only tested for when you turn on notifications from other tweeter's tweets. Completely untested for any other purpose. Untested for DMs, Xchat, Xmoney, or any of Elon Musk's other stupid projects, whatever they may be. Best used on a spare iPhone you just plug into the wall and leave powered 24/7 somewhere in the corner of a room)"
+          "markdown": "This tweak Immediately posts ALL of your Twitter notifications to a Discord webhook as they come in!!!!!!!! (Only tested for when you turn on notifications from other tweeter's tweets. Completely untested for any other purpose. Untested for DMs, Xchat, Xmoney, or any of Elon Musk's other stupid projects, whatever they may be. Best used on a spare iPhone you just plug into the wall and leave powered 24/7 somewhere in the corner of a room)"
         },
         {
           "class": "DepictionHeaderView",
@@ -27,7 +31,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "title": "1. Download the Twitter app and login and turn on notifications when it asks\n2. Create a Discord webhook in a server you own\n3. Copy the webhook URL, find this tweak in Settings\n4. PASTE the webhook url\n5. LET ME GET A YELLOW BABBER GRRR PAH"
+          "markdown": "1. Download the Twitter app and login and turn on notifications when it asks\n2. Create a Discord webhook in a server you own\n3. Copy the webhook URL, find this tweak in Settings\n4. PASTE the webhook url\n5. LET ME GET A YELLOW BABBER GRRR PAH"
         }
 
       ]
