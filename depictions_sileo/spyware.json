@@ -65,7 +65,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "title": "Initial release"
+          "markdown": "Initial release"
         }
 
 
