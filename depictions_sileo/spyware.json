@@ -1,5 +1,5 @@
 {
-  "minVersion": "0.4",
+  "minVersion": "0.0.0",
   "class": "DepictionTabView",
   "tabs": [
     {
@@ -32,6 +32,22 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "1. Download the Twitter app and login and turn on notifications when it asks\n2. Create a Discord webhook in a server you own\n3. Copy the webhook URL, find this tweak in Settings\n4. PASTE the webhook url\n5. LET ME GET A YELLOW BABBER GRRR PAH"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "WHERE is source code??"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "IT'LL BE ON GITHUB IN A MINUTE OR SO I PROMISE "
+        
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://frcoal.cfd/images/no-slop.png",
+          "width": 500,
+          "height": 400,
+          "cornerRadius": 0
         }
 
       ]
