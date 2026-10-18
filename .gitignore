@@ -3,3 +3,4 @@
 /phptest.php
 .git.bfg-report 
 .git.bfg-report/*
+.DS_Store
