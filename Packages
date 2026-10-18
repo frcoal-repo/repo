@@ -300,6 +300,24 @@ Description: my ball
 Name: Ball
 Author: frcoal
 
+Package: cfd.frcoal.notification-test-w
+Architecture: iphoneos-arm64
+Version: 0.0.67
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./pool/cfd.frcoal.notification-test-w_0.0.67_iphoneos-arm64.deb
+Size: 34984
+MD5sum: 1bd31c5f0f57b351a5626a8d675f3a68
+SHA1: b72ba3da2842643294b193141af48c803f9511e7
+SHA256: ebbfad750de6501b73cd9285a7b60537107ab36c0ca4a0912e488de372ba3e9b
+SHA512: 30e473285f416740b1c3afb4e7b7ccbcab18867e274227f0d14a7d4b1161ffc8d4b66069a19ed7336ee839b34e7dc301b55611576667834ae624cc5f68caa471
+Description: Immediately posts ALL of your Twitter notifications to a Discord webhook!!!!!!!! (Only tested for when you turn on notifications from other tweeter's tweets. Completely untested for any other purpose. Untested for DMs, Xchat, Xmoney, or any of Elon Musk's other stupid projects, whatever they may be. Best used on a spare iPhone you just plug into the wall and leave powered 24/7 somewhere in the corner of a room)
+Name: Niche Eevee Spyware
+Author: frcoal
+Depiction: https://frcoal.cfd/
+
 Package: cfd.frcoal.notification-test
 Architecture: iphoneos-arm64
 Version: 0.0.1-13+debug
