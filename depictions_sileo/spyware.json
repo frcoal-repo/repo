@@ -1,0 +1,16 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Example page",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "This is an example "
+        },
+
+    }
+  ]
+}
