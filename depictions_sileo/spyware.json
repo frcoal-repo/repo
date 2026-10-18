@@ -14,7 +14,8 @@
           "class": "DepictionImageView",
           "URL": "https://frcoal.cfd/images/turn_this_into_this.png",
           "width": 500,
-          "height": 500
+          "height": 500,
+          "cornerRadius": 0
         },
         {
           "class": "DepictionMarkdownView",
