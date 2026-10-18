@@ -4,11 +4,15 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Spyware",
+      "tabname": "Spyware Info",
       "views": [
         {
           "class": "DepictionHeaderView",
           "title": "Twitter Notification Forwarder"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "(Niche Eevee Spyware)"
         },
         {
           "class": "DepictionImageView",
@@ -51,6 +55,22 @@
         }
 
       ]
+    }, {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "0.0.67"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "title": "Initial release"
+        }
+
+
+      ]
+
     }
   ]
 }
