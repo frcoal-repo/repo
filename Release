@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
+Codename: ios
+Components: main
+Date: Sun, 18 Oct 2026 08:45:30 +0000
+Description: frcoal
+Label: frcoal
+Origin: frcoal
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 5e2030d77faa3e411df98d74fc9b5612            62413 Packages
+ 7d4f12f7cabd342bb495396804b2bdd5            15540 Packages.bz2
+ 94b58ab8854f4713de25633a923abe44            14360 Packages.xz
+ 532db89dd9f726843e9f8cd4acea7ac2            14531 Packages.zst
+ e3c38bb83b0c3ef1680358e2793901d9              214 Release
+SHA1:
+ c3cbe829c1f0f1363870dd9c3e379bcb45cb842d            62413 Packages
+ 9b312f9fe5525cf01725933844dbde27c4a67342            15540 Packages.bz2
+ cdd53a444eff2f5c4ed70dfc04067888f5ec6cc7            14360 Packages.xz
+ e4e47639fe5130b3314d3efa530d6be653baab7f            14531 Packages.zst
+ 2a9aa7363eeda8f6453350912ca0ad0b9ce3ff07              214 Release
+SHA256:
+ d6b5209cc08c134adfa451fc745cc9f247da5f1406b09ea3bf5491abdfd8a1b5            62413 Packages
+ 351e8788e8c0548515f23605b7a624713869b11dd99a36c75ff4fdaa91d13b4e            15540 Packages.bz2
+ 7b941736894addc605271ee1004540d830ae610bedf0ac9214c38156b9ef763b            14360 Packages.xz
+ fc501770ec5a607d968d99be9374b2ebc0dbe1ad480ae204dbca31961e2ea8c1            14531 Packages.zst
+ fa7183eaa3bc275db2550ad6a4efb771a90f97baed9d2211914e0f3b86b3352f              214 Release
+SHA512:
+ 0c7047858c5fbe1a4789c39447943b70b0e3f69aa719caee2bfde25b2aa195423c51c6aaf25b1c41820c3dac0bcf22b6ea7bd3a1da5096ad66c667ba70553e50            62413 Packages
+ 54d1b534d2db4398b45f8cfd1fd87a2636bd69ac1bdc1de1004f44528fd947e31ec6f9e67e3ac5ef8c0e3747bfdd3cce9f26bb59a45ebb6c4dd047a3948c1359            15540 Packages.bz2
+ 3cd1529f92a1fdbdc2ae483bba8916714704c7148555b31c5c0bfa4ce0a91d5b23afcfb87f41675200de923ebc01a92399c86af74d3d971e83baa48e8502825b            14360 Packages.xz
+ 11bba6ea3317e4dc11f81f7c089e27d47e9676c9a81dacba2913e7627768ac2f983e2541ac9f5c9625ff3f77c50bea2ec43f236fffeb12bfc4fb3158a2f1ab3d            14531 Packages.zst
+ b7ba5c4e081ce2cb77ba7418c88272b82db36cd7f176dbefb7607b270e2e52d5d3c16b7274e07c7d41d543bc5f681f49f01bb18d7ec16284dc4411f9d8f1e29c              214 Release
