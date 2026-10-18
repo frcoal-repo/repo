@@ -61,6 +61,14 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "0.0.69"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fully fix bundle id so the other Notification Logger can be installed simultaneously"
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "0.0.67"
         },
         {
