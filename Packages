@@ -320,6 +320,26 @@ Depiction: https://frcoal.cfd/depictions/spyware.html
 SileoDepiction: https://frcoal.cfd/depictions_sileo/spyware.json
 Icon: https://frcoal.cfd/icons/spyware_120.png
 
+Package: cfd.frcoal.notification-test-w
+Architecture: iphoneos-arm64
+Version: 0.0.69
+Section: Tweaks
+Maintainer: frcoal
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./pool/cfd.frcoal.notification-test-w_0.0.69_iphoneos-arm64.deb
+Size: 35040
+MD5sum: df66f0cb4465b402a674c541dbb443ca
+SHA1: ae1f74496049bb05357979ef8eea2d33be86fe27
+SHA256: 816bb7ee93afa4e551a79d4b7886f64930f9ccfa9c5a40b5136a77c521a79289
+SHA512: e2ebe456342d6eac34b3044ae0fa99caf9d6949d3f3f39a609c64d757bcabb39cc07b6bf5ca0dc29ec7d06b2bde74b0401440cdb980e49add6054d2b3ef135f6
+Description: Immediately posts ALL of your Twitter notifications to a Discord webhook!!!!!!!! (Only tested for when you turn on notifications from other tweeter's tweets. Completely untested for any other purpose. Untested for DMs, Xchat, Xmoney, or any of Elon Musk's other stupid projects, whatever they may be. Best used on a spare iPhone you just plug into the wall and leave powered 24/7 somewhere in the corner of a room)
+Name: Niche Eevee Spyware
+Author: frcoal
+Depiction: https://frcoal.cfd/depictions/spyware.html
+SileoDepiction: https://frcoal.cfd/depictions_sileo/spyware.json
+Icon: https://frcoal.cfd/icons/spyware_120.png
+
 Package: cfd.frcoal.notification-test
 Architecture: iphoneos-arm64
 Version: 0.0.1-13+debug
