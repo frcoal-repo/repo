@@ -61,6 +61,14 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "0.0.71"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fix default embed killer (should not kill by default) (actually untested change but I imagined that this would probably fix it)"
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "0.0.69"
         },
         {
