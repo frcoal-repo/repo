@@ -61,6 +61,14 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "0.2.67"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Added embed fixers fxtwitter and vxtwitter in addition to the default url x.com"
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "0.1.67"
         },
         {
