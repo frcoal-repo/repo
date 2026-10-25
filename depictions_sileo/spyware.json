@@ -61,6 +61,14 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "0.1.67"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Correctly handle retweets (post link of original tweet)"
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "0.0.71"
         },
         {
