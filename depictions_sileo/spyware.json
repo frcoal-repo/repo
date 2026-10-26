@@ -52,6 +52,13 @@
           "width": 500,
           "height": 400,
           "cornerRadius": 0
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://frcoal.cfd/images/icraze.png",
+          "width": 500,
+          "height": 200,
+          "cornerRadius": 0
         }
 
       ]

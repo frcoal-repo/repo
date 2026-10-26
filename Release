@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm iphoneos-arm64 watchos-arm watchos-arm64
 Codename: ios
 Components: main
-Date: Sun, 25 Oct 2026 15:35:45 +0000
+Date: Mon, 26 Oct 2026 02:24:20 +0000
 Description: frcoal
 Label: frcoal
 Origin: frcoal
@@ -12,22 +12,22 @@ MD5Sum:
  c2fa6d123e42b33ef696c0e59f5216e5            16977 Packages.bz2
  64d0678d2323ac43a8c0b7910f7b3011            15680 Packages.xz
  891a71c583ab25a198c8cfca94dc7064            15834 Packages.zst
- d85240c73efdf0a83bbca18d2b7dd0b7              214 Release
+ 08c291957dfe61274e2c52de2b8236cc              214 Release
 SHA1:
  b9d7045b3738f6f83163682e5ef12033b7ce2059            69220 Packages
  62a1cd794cd6d52e5fb085b06bad9f14d318fcb5            16977 Packages.bz2
  1d4017a86f1244393eaff0b49eb4408df007068b            15680 Packages.xz
  6cae1a8e917e9f0adccfb712740c40709f50b3fe            15834 Packages.zst
- 7576685ebaff669e1d228c21aa06b63bdc7b519b              214 Release
+ 0c6fc20f22c866f2df1546ec62a68a4d8014e1bb              214 Release
 SHA256:
  91ec407a94d659f381c4907047ae8980a3c9043dcfa16d35c75865fe05caeb1b            69220 Packages
  47fcc277f6f0579725be0c79310836d593aba3e63e11c12260e8506bb4565f41            16977 Packages.bz2
  cdaafff387deb387cbea82e800aff494d4ccde5cbdef638ebd0304ceab45686a            15680 Packages.xz
  653c18fd07a6117b8775c3c01d851acaf334fec0ed83f079b61d269432be4c3a            15834 Packages.zst
- 90245495d57207552e7d224cc8af3046a7c8597b7d006f92d1a1bb692bf680eb              214 Release
+ 216945d41e1f940326f98346caa6b7898fa227f8f849a912a620a5ccc8373256              214 Release
 SHA512:
  d6dd6be837e390a3ba4c6d7cd2af3ae01bf051821718359e06ddf4984a805d45312675e39e1dd5ca28f0e533d1af182837bf8a82194485ad4d2775a623141f5b            69220 Packages
  b1b3e31b578ef0766ec898964e116c944de5f702736645de66a20efe9bb5166da96f8f907409fac60f9923cf21ec9c2e587ab253b267e0a3951dc02466fa877d            16977 Packages.bz2
  d5ad5d0cd9ab79a5ed46ac193b3aa5a42e2aa6aac5cc7ca82ea2e8a23e78dc97bbb4dc06d62895e1b77afd9462e67934b3c5abe0e27a2a25130f5ca097d26933            15680 Packages.xz
  50524591b03dda4416a223426a46330389885702fb1c5ae0fb21236f73fa1af4ca0c347955b342057c0762742b5f95415f15bdd39ecb59334cca7ad732fa1f5f            15834 Packages.zst
- 56dfc7e52a7c8e30c83a009442820fb2c7b912e94e432a28f2981cf6099512e8d4081414ce19b32342222e3f6a0b20db2f7995880a723bf66963e011d9dd06c4              214 Release
+ 93b419d755041c203a44a7686b367f8883921b0b5155b57898bc98fb97cd769c13adc88ff116f0be83dadd8504422b3476a6ce687db56546eac0e9f6dc0f8463              214 Release
